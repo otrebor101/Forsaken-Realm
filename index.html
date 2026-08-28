@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Forsaken Realm</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Forsaken Realm</h1>
+  <div id="who" hidden>
+    <span id="who-name"></span>
+    <button id="logout-btn">Log out</button>
+  </div>
+</header>
+
+<main>
+
+  <section id="login-view">
+    <form id="login-form">
+      <label>
+        Username
+        <input type="text" id="login-username" autocomplete="username" required>
+      </label>
+      <label>
+        Password
+        <input type="password" id="login-password" autocomplete="current-password" required>
+      </label>
+      <button type="submit">Log in</button>
+      <p id="login-error" role="alert" hidden></p>
+    </form>
+  </section>
+
+  <section id="app-view" hidden>
+    <nav id="campaign-nav"></nav>
+    <div id="campaign-content"></div>
+  </section>
+
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "characters": [
+    {
+      "name": "Patches",
+      "player": "patches",
+      "hp": { "value": 0, "max": 0 },
+      "ac": 0,
+      "bio": "Placeholder — real data comes from the Foundry actor once the module is pushing."
+    }
+  ]
+}

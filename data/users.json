@@ -1,0 +1,15 @@
+[
+  {
+    "id": "u_gm",
+    "username": "gm",
+    "passwordHash": "5e6d9d6372d116b134b35feb7e46f449804c39b263b867eb54cd4423182d2068",
+    "role": "admin"
+  },
+  {
+    "id": "u_patches",
+    "username": "patches",
+    "passwordHash": "64573f8aacd25fd3dcb5c4f1d3096e1d9f62e96abadcd53defed8b06e49438b8",
+    "role": "player",
+    "assignedCampaigns": ["crooked-moon"]
+  }
+]
