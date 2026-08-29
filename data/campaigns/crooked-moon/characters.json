@@ -1,11 +1,81 @@
 {
   "characters": [
     {
+      "actorId": "nUVRRTmx1zU2PcmF",
+      "name": "Small Victor",
+      "player": "blythe",
+      "hp": {
+        "value": 28,
+        "max": 59
+      },
+      "ac": 15,
+      "bio": "<p>Small Victor was created by Blinksi as the second doll in a set of five. His sister, Veronica, was created first. She was Blinski's most prized creation. He spent countless hours carefully crafting her. After this, he was falling behind schedule for the line's release. Because of this he rushed when creating Small Victor. Adding far too much mischief and nefariousity, he made Small Victor far more chaotic and sinister than he had intended. And far more powerful. Once Small Victor sprung to life he immediately jumped into a joyous and entrancing circus-like performance. Unicycling across the drying line with five flaming torches dancing through the air as he played a dazzling kazoo tune. Blinski was enveloped in the performance before he tried to cut it short and continue with his set. This, unfortunately caused 2 of the torches to land on his desk, setting fire to his patterns and plans for the remaining three dolls. Blinski then swore to have Small Victor captured, and eliminated. Veronica and Small Victor escaped through a hole in the wall and ran.</p><p></p><p>Small Victor has one mission. To ascend. Ascension is his only option to prevent Blinski from ending him, and changing his very essence. While in a busy market he found 2 train tickets dropped by someone who didn't seem to notice they were missing. He scooped these up and formulated his plan: 1) take the train 2) ASCEND.</p><p></p><p>Take 2:</p><p>After the death of his dear sister Veronica, Victors morals are slipping.</p><p>With half of his moral compass gone, his Best Friend Adam is the only one keeping him grounded.</p><p>The voice of his patron in his head is only encouraging his downward? upward? spiral into madness. Victor has set his sights on ultimate power and will stop at almost nothing to achieve this. To make his patron proud. To become the favourite.</p><p>The Greatest Fool.</p><p>Victor is torn between ultimate power and the need to know what Veronica was keeping from him. Who created her, if not Blinski? Was that who created him? How are they related? Is everything Victor thought he knew a lie?</p><p>How can he honour Veronicas memory and still become the puppet he was meant to be?</p><p>Can you be all powerful and still keep your friends?</p>"
+    },
+    {
+      "actorId": "3ymU9A5V897Uop6b",
       "name": "Patches",
-      "player": "patches",
-      "hp": { "value": 0, "max": 0 },
-      "ac": 0,
-      "bio": "Placeholder — real data comes from the Foundry actor once the module is pushing."
+      "player": "foundrymaster",
+      "hp": {
+        "value": 27,
+        "max": 27
+      },
+      "ac": 12,
+      "bio": "<p data-start=\"40\" data-end=\"414\">He hatched in a backwoods Kenku Collective—rural, rusted, and far from the roads that mattered. The elders loved old turns of phrase, twisted proverbs, and sayings so local they confused even other kenku. Every sentence was a riddle, a lyric, or a punchline delivered out of order.</p><p data-start=\"930\" data-end=\"1061\">He fit right in—talked too much, even by their standards. Where most spoke with poetic reserve, he chattered endlessly about <em data-start=\"1055\" data-end=\"1060\">Pop</em>.</p><p data-start=\"1063\" data-end=\"1338\">Saint Pop. Patron of speech, liberator of voices, hero of the kenku. The one who climbed the one who carved out a deity’s eye, and traded it for their tongues. Before Pop, kenku spoke only in echoes. After Pop, they spoke in full voice—and some, like the boy, never stopped.</p><p data-start=\"1340\" data-end=\"1723\">While other hatchlings worked or wandered, he filled the workshop with stories. Pop slaying demons. Pop stealing fire from the moon. Pop tricking death with a crowbar. The boy mimicked every tale, recited them in the dark, practiced the cadence like prayer. He didn’t just believe—he wanted to <em data-start=\"1675\" data-end=\"1679\">be</em> Pop. Brave. Clever. Loud. A giver of gifts.</p><p data-start=\"1725\" data-end=\"2147\">The elders finally sent him off—to Baldur’s Gate, with a supply list and Cawkrin Jones, a quick-witted rogue with a silver tongue and a thousand bad ideas. It didn’t take long for things to go sideways. Cawkrin dragged him to a casino instead of the market, tried to cheat roulette by mimicking the dealer’s voice. Both kenku were behind bars.</p><p data-start=\"2149\" data-end=\"2314\">Syndra Silvane bailed them out. She said she needed problem-solvers. Offered them a place on her expedition. All they had to do was make the teleport circle on time.</p><p data-start=\"2316\" data-end=\"2328\">They didn’t.</p><p data-start=\"2330\" data-end=\"2443\">The spell fired, but wrong—Syndra vanished cleanly. The two kenku scattered into the jungle, miles from the port.</p><p data-start=\"2445\" data-end=\"2614\">They wandered. Hungry. Tired. Cawkrin grew desperate and made a mistake—tried to rob the Wizard of Weirding. “Watch the door,” he told the boy. “Whistle if it goes bad.”</p><p data-start=\"2616\" data-end=\"2650\">The boy watched. Waited. Listened.</p><p data-start=\"2652\" data-end=\"2669\">He heard a shout.</p><p data-start=\"2671\" data-end=\"2684\">Then silence.</p><p data-start=\"2686\" data-end=\"2863\">Now he’s alone. Carrying nothing but a satchel of tools, a head full of stories, and guilt he can’t shake.</p><p data-start=\"2865\" data-end=\"2966\">The boy’s looking for heroes. Fighters. Sorcerers. Anyone strong enough to help him set things right.</p><p data-start=\"2968\" data-end=\"3043\">He still talks too much. Still tells Pop’s stories to anyone who’ll listen.</p><p data-start=\"3045\" data-end=\"3090\">Still wants to give the kenku something back.</p><p data-start=\"3092\" data-end=\"3114\">Still believes he can.</p>"
+    },
+    {
+      "actorId": "MStMsjJLMxHJvgqD",
+      "name": "Adam Thorne",
+      "player": "foundrymaster",
+      "hp": {
+        "value": 23,
+        "max": 67
+      },
+      "ac": 17,
+      "bio": "<h1>Backstory</h1><p>I remember very little of my first life. There are fragments my sister laughing, my father reading by candlelight, music drifting through the house at night. Those memories are all I have left of the person I used to be. Everything else ends in cold and darkness. The night we died, I tried to save her. I was older. I should have been stronger. Faster. Braver. But when the moment came, I failed. I still remember my father’s face when he found us. He wasn’t screaming or crying just staring at me like something inside him had broken. the light left my eyes as i held my sisters hand. My father was a brilliant man, the sort who believed every problem had a solution if you were clever enough. Death, he decided, was simply another problem. I don’t know how long I was gone. I only remember waking up on a cold table beneath dim lights, my father standing over me with shaking hands. My body was different. Stronger. Harder. Not flesh the way it once was. People look at me differently now. Like they know something is wrong. Like they’re waiting for the moment the monster inside me finally shows itself. Sometimes I think they might be right. I barely remember the life I lost, but I cling to those memories as proof that I’m still human.</p>"
+    },
+    {
+      "actorId": "8kW7CY1YJmC2lB59",
+      "name": "Vinnie Provolone",
+      "player": "drew",
+      "hp": {
+        "value": 52,
+        "max": 52
+      },
+      "ac": 18,
+      "bio": "<p>bastard son of Gadfather Vito Provolone.</p><p>giant mouse cock.</p>"
+    },
+    {
+      "actorId": "Acs4HBZjrOg6VQGA",
+      "name": "Daisy Provolone",
+      "player": "brooke",
+      "hp": {
+        "value": 51,
+        "max": 51
+      },
+      "ac": 16,
+      "bio": ""
+    },
+    {
+      "actorId": "1bbY0a9paqwKaKR7",
+      "name": "Castiel",
+      "player": "goob",
+      "hp": {
+        "value": 60,
+        "max": 70
+      },
+      "ac": 22,
+      "bio": "<p data-start=\"363\" data-end=\"625\">Stoneborn communities believe stone remembers every crime. Some are shaped not as builders or guardians, but as <strong data-start=\"474\" data-end=\"498\">sentences given form</strong>. You were awakened, trained, and released not to protect the innocent, but to <strong data-start=\"577\" data-end=\"624\">ensure the guilty do not escape consequence</strong>.</p><p></p><p>I was carved out of white marble from a sacred temple, with judgment carved into my being i was created to deliver punishment without hatred.</p><p></p><p>But with laws and courts corrupted i now only listen to the voice of my god.</p>"
+    },
+    {
+      "actorId": "vJ05vJn1bnN9Aq9m",
+      "name": "Morris Granville",
+      "player": "foundrymaster",
+      "hp": {
+        "value": 36,
+        "max": 50
+      },
+      "ac": 14,
+      "bio": "<p>A once renowned detective in the realms of the living, Morris Granville was called to investigate for many of the greatest Clerics, Paladins, Mayors, and Lords. In his many escapades he dodged death a number of times, including having been resurrected at least twice. Though there may have been a third, he doesn't remember. In recent times though his name has fallen by wayside in the land of the living, and thus he has been in Druskenvald for far longer than he prefers. Looking for something to do whilst trying to find a way back to the realm of the living, Morris finds a poster promising a reward for the capture or killing of Pierre Fromage.</p><p></p><img src=\"music/25071021-9c27-4cdf-9e4a-89690d8c6b2d.png\">"
     }
   ]
 }
