@@ -20,5 +20,12 @@
     "passwordHash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
     "role": "admin",
     "assignedCampaigns": []
+  },
+  {
+    "id": "u_U1tias89IBu5vG0P",
+    "username": "clay",
+    "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "role": "player",
+    "assignedCampaigns": []
   }
 ]
