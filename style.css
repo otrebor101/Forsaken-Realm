@@ -60,3 +60,28 @@ header {
 .entry h3, .character h3 {
   margin: 0 0 0.4rem;
 }
+
+.char-meta {
+  color: #666;
+  font-size: 0.9rem;
+  margin: 0 0 0.3rem;
+}
+
+.char-stats {
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+}
+
+.character details {
+  margin-top: 0.5rem;
+}
+
+.character summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.character details ul {
+  margin: 0.4rem 0 0;
+  padding-left: 1.2rem;
+}

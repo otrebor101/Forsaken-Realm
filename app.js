@@ -138,7 +138,33 @@ async function loadCampaign(slug) {
   characters.characters.forEach((c) => {
     const div = document.createElement("div");
     div.className = "character";
-    div.innerHTML = `<h3>${c.name}</h3><p>${c.bio}</p>`;
+
+    const classesText = (c.classes || [])
+      .map((cl) =>
+        cl.subclass
+          ? `${cl.name} (${cl.subclass}) ${cl.level}`
+          : `${cl.name} ${cl.level}`
+      )
+      .join(", ");
+
+    const metaLine = [c.race, c.background, classesText]
+      .filter(Boolean)
+      .join(" · ");
+
+    const featuresHtml = (c.features || [])
+      .map(
+        (f) =>
+          `<li><strong>${f.name}</strong>${f.description ? `: ${f.description}` : ""}</li>`
+      )
+      .join("");
+
+    div.innerHTML = `
+      <h3>${c.name}</h3>
+      ${metaLine ? `<p class="char-meta">${metaLine}</p>` : ""}
+      <p class="char-stats">HP ${c.hp.value}/${c.hp.max} &middot; AC ${c.ac}</p>
+      <p>${c.bio}</p>
+      ${featuresHtml ? `<details><summary>Features</summary><ul>${featuresHtml}</ul></details>` : ""}
+    `;
     content.appendChild(div);
   });
 }
