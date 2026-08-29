@@ -10,6 +10,17 @@
     "username": "patches",
     "passwordHash": "64573f8aacd25fd3dcb5c4f1d3096e1d9f62e96abadcd53defed8b06e49438b8",
     "role": "player",
-    "assignedCampaigns": ["crooked-moon"]
+    "assignedCampaigns": [
+      "crooked-moon"
+    ]
+  },
+  {
+    "id": "u_U1tias89IBu5vG0P",
+    "username": "clay",
+    "passwordHash": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "role": "player",
+    "assignedCampaigns": [
+      "crooked-moon"
+    ]
   }
 ]
