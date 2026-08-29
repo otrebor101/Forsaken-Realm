@@ -101,7 +101,7 @@
     {
       "actorId": "3ymU9A5V897Uop6b",
       "name": "Patches",
-      "player": "foundrymaster",
+      "player": "chase",
       "hp": {
         "value": 27,
         "max": 27
@@ -195,7 +195,7 @@
     {
       "actorId": "MStMsjJLMxHJvgqD",
       "name": "Adam Thorne",
-      "player": "foundrymaster",
+      "player": "clay",
       "hp": {
         "value": 23,
         "max": 67
@@ -631,7 +631,7 @@
     {
       "actorId": "vJ05vJn1bnN9Aq9m",
       "name": "Morris Granville",
-      "player": "foundrymaster",
+      "player": "sampson",
       "hp": {
         "value": 36,
         "max": 50
