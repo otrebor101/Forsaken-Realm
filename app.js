@@ -135,7 +135,14 @@ async function loadCampaign(slug) {
   const charHeading = document.createElement("h3");
   charHeading.textContent = "Characters";
   content.appendChild(charHeading);
-  characters.characters.forEach((c) => {
+
+  const session = getSession();
+  const visibleCharacters =
+    session.role === "admin"
+      ? characters.characters
+      : characters.characters.filter((c) => c.player === session.username);
+
+  visibleCharacters.forEach((c) => {
     const div = document.createElement("div");
     div.className = "character";
 

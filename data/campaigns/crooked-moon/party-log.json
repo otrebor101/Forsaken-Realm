@@ -1,9 +1,9 @@
 {
   "entries": [
     {
-      "date": "",
-      "title": "test journal",
-      "summary": "<p>test</p>"
+      "date": "placeholder",
+      "title": "Sample session entry",
+      "summary": "This is placeholder content. Once the Foundry module is pushing real data, entries like this will come from the Party journal folder in Foundry."
     }
   ]
 }
