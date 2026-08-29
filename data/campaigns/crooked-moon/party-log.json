@@ -5,6 +5,14 @@
       "title": "test journal",
       "summary": "<p>test</p>",
       "visibleTo": null
+    },
+    {
+      "date": "",
+      "title": "Invisible Test",
+      "summary": "<p>test</p>",
+      "visibleTo": [
+        "foundrymaster"
+      ]
     }
   ]
 }
