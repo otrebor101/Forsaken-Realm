@@ -1,11 +1,739 @@
 {
   "characters": [
     {
+      "actorId": "nUVRRTmx1zU2PcmF",
+      "name": "Small Victor",
+      "player": "blythe",
+      "hp": {
+        "value": 28,
+        "max": 59
+      },
+      "ac": 15,
+      "bio": "<p>Small Victor was created by Blinksi as the second doll in a set of five. His sister, Veronica, was created first. She was Blinski's most prized creation. He spent countless hours carefully crafting her. After this, he was falling behind schedule for the line's release. Because of this he rushed when creating Small Victor. Adding far too much mischief and nefariousity, he made Small Victor far more chaotic and sinister than he had intended. And far more powerful. Once Small Victor sprung to life he immediately jumped into a joyous and entrancing circus-like performance. Unicycling across the drying line with five flaming torches dancing through the air as he played a dazzling kazoo tune. Blinski was enveloped in the performance before he tried to cut it short and continue with his set. This, unfortunately caused 2 of the torches to land on his desk, setting fire to his patterns and plans for the remaining three dolls. Blinski then swore to have Small Victor captured, and eliminated. Veronica and Small Victor escaped through a hole in the wall and ran.</p><p></p><p>Small Victor has one mission. To ascend. Ascension is his only option to prevent Blinski from ending him, and changing his very essence. While in a busy market he found 2 train tickets dropped by someone who didn't seem to notice they were missing. He scooped these up and formulated his plan: 1) take the train 2) ASCEND.</p><p></p><p>Take 2:</p><p>After the death of his dear sister Veronica, Victors morals are slipping.</p><p>With half of his moral compass gone, his Best Friend Adam is the only one keeping him grounded.</p><p>The voice of his patron in his head is only encouraging his downward? upward? spiral into madness. Victor has set his sights on ultimate power and will stop at almost nothing to achieve this. To make his patron proud. To become the favourite.</p><p>The Greatest Fool.</p><p>Victor is torn between ultimate power and the need to know what Veronica was keeping from him. Who created her, if not Blinski? Was that who created him? How are they related? Is everything Victor thought he knew a lie?</p><p>How can he honour Veronicas memory and still become the puppet he was meant to be?</p><p>Can you be all powerful and still keep your friends?</p>",
+      "race": "Threadborn",
+      "background": "Reveler",
+      "classes": [
+        {
+          "name": "Warlock",
+          "level": 7,
+          "subclass": "The Great Fool"
+        }
+      ],
+      "features": [
+        {
+          "name": "Eldritch Invocations",
+          "description": "<p>You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as @UUID[Compendium.dnd-players-handbook.classes.Item.phbinvPactTome00]{Pact of the Tome}. Invocations are described in the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbWarlock000000.JournalEntryPage.FA4hxx49eazhISIt]{Eldritch Invocation Options} section.</p><p><strong>Prerequisites.</strong> If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.</p><p><strong>Replacing and Gaining Invocations.</strong> Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can’t replace an invocation if it’s a prerequisite for another invocation that you have.</p><p>When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.</p><p><strong>Current Max Eldritch Invocations:</strong> [[lookup @scale.warlock.invocations-known]]</p><p>You can’t pick the same invocation more than once unless its description says otherwise.</p><section class=\"secret\" id=\"secret-Oe1om6AaBjTtabpK\"><p><strong>Foundry Note</strong></p><p>You will be prompted for your choices as you level up. The advancement system does not prevent you from taking any invocations so be sure that you meet the requirements before selecting one.</p></section>"
+        },
+        {
+          "name": "Pact Magic",
+          "description": "<p>Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{rules on spellcasting}. The information below details how you use those rules with Warlock spells, which appear in the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.sSzagq8GvYXpfmfs]{Warlock spell list}.</p><p><strong>Cantrips.</strong> You know two Warlock cantrips of your choice. @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplEldritchBl]{Eldritch Blast} and @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi]{Prestidigitation} are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.</p><p>When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.</p><p><strong>Current Max Cantrips Known:</strong> [[lookup @scale.warlock.cantrips-known]]</p><p><strong>Spell Slots.</strong> The @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbWarlock000000.JournalEntryPage.znue6EaGDDXgeQb0#class-features]{Warlock Features table} shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a Short or Long Rest.</p><p>For example, when you’re a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWitchBolt0]{Witch Bolt}, you must spend one of those slots, and you cast it as a level 3 spell.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplCharmPerso]{Charm Person} and @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHex0000000]{Hex} are recommended.</p><p><strong>Current Max Prepared Spells:</strong> [[lookup @scale.warlock.max-prepared]]</p><p>The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what’s shown in the table’s Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.</p><p>If another Warlock feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level.</p><p><strong>Spellcasting Ability.</strong> Charisma is the spellcasting ability for your Warlock spells.</p><p><strong>Spellcasting Focus.</strong> You can use an Arcane Focus as a Spellcasting Focus for your Warlock spells.</p>"
+        },
+        {
+          "name": "You’ve Got a Friend",
+          "description": "<p class=\"p2\">When a creature you can see within 30 feet of yourself fails an ability check using a skill, you can take a Reaction to cast <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplGuidance00]{Guidance} </em>on the creature, ignoring the spell's normal range. The creature can add the spell's [[/roll 1d4]] to its ability check, potentially causing it to succeed, then the spell ends. You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.</p>"
+        },
+        {
+          "name": "Reveling Fool",
+          "description": "<p class=\"p1\">You joined a troupe of madcap revelers and learned to take on the guise of a fool, channeling otherworldly laughter and joviality. You gain the following benefits.</p><p class=\"p2\"><span class=\"s1\"><em><strong>Fool’s Mask.</strong></em> By donning a jovial mask and a fool’s, jester’s, or clown’s costume, you take on a new identity that hides your own. In the guise of the fool, you can get away with minor transgressions against people in positions of authority or station.</span></p><p class=\"p2\"><span class=\"s2\"><em><strong>Jester’s Repartee.</strong></em> You always have the <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplTashasHide]{Hideous Laughter}</em> spell prepared, and your spellcasting ability for it is Intelligence, Wisdom, or Charisma (choose the ability when you select this feat). You can cast it once without Material components or a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.</span></p>"
+        },
+        {
+          "name": "Magical Cunning",
+          "description": "<p>You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can’t do so again until you finish a Long Rest.</p><section id=\"secret-uXJIaDc9mWHsrILV\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature includes one free use and will restore the correct number of Pact Magic spell slots.</p></section>"
+        },
+        {
+          "name": "Devil's Sight",
+          "description": "<blockquote><p>Prerequisite: Level 2+ Warlock</p></blockquote><p>You can see normally in Dim Light and Darkness—both magical and nonmagical—within 120 feet of yourself.</p><section class=\"secret\" id=\"secret-RVsijULbRFU2b9ZU\"><p><strong>Foundry Note</strong></p><p>This feature includes an Active Effect that grants you darkvision to 120 feet.</p></section>"
+        },
+        {
+          "name": "Fiendish Vigor",
+          "description": "<blockquote><p>Prerequisite: Level 2+ Warlock</p></blockquote><p>You can cast @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFalseLife0]{False Life} on yourself without expending a spell slot. When you cast the spell with this feature, you don’t roll the die for the Temporary Hit Points; you automatically get the highest number on the die.</p><section class=\"secret\" id=\"secret-9kRkRSKEmbOaga6L\"><p><strong>Foundry Note</strong></p><p>The <strong>False Life</strong> activity includes the maximum amount of healing.</p></section>"
+        },
+        {
+          "name": "Otherworldly Leap",
+          "description": "<blockquote><p>Prerequisite: Level 2+ Warlock</p></blockquote><p>You can cast @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplJump000000]{Jump} on yourself without expending a spell slot.</p><hr><p>@Embed[Compendium.dnd-players-handbook.spells.Item.phbsplJump000000 inline]</p>"
+        },
+        {
+          "name": "Great Fool Spells",
+          "description": "<p>The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Fool Spells table, you thereafter always have the listed spells prepared.</p><h4><em><strong>Great Fool Spells</strong></em></h4><table border=\"0\" class=\"foundry-header-red\"><thead><tr><th>Warlock Level</th><th>Spells</th></tr></thead><tbody><tr><td>3rd</td><td>Disguise Self, Hideous Laughter, Rope Trick, Spiritual Weapon, Vicious Mockery</td></tr><tr><td>5th</td><td>Blink, Stinking Cloud</td></tr><tr><td>7th</td><td>Phantasmal Killer, Puppet Master *</td></tr><tr><td>9th</td><td>Arcane Hand, Mislead</td></tr></tbody></table>"
+        },
+        {
+          "name": "Killing Joke",
+          "description": "<p>You see the humor in everything—especially in the end of things. When a creature you can see within 60 feet of you takes damage or fails a saving throw, you can use your reaction to cast <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplViciousMoc]{Vicious Mockery}</em> on that creature. You can use this reaction a number of times equal to your Charisma modifier (minimum of once). You regain one expended use when you finish a short rest, and you regain all expended uses when you finish a long rest.</p>"
+        },
+        {
+          "name": "Whimsical Form",
+          "description": "<p>Your body briefly obeys cartoon logic instead of natural law, and outside of danger you can perform small acts of harmless absurdity with ease.</p><p data-start=\"505\" data-end=\"929\"><strong data-start=\"505\" data-end=\"523\">Cartoon Logic.</strong> Outside of combat, you can use minor cartoonish effects at will for flavor and roleplay. You can produce tiny whimsical props, briefly distort your features or limbs, make objects appear to come from implausible places on your person, or perform other harmless gags at the DM’s discretion. These effects cannot cause damage, grant meaningful mechanical benefit, solve major obstacles, or replicate spells.</p><p data-start=\"931\" data-end=\"1086\"><strong data-start=\"931\" data-end=\"952\">As a bonus action</strong>, you enter your Whimsical Form for <strong data-start=\"988\" data-end=\"1000\">1 minute</strong>. Once you use this feature, you cannot use it again until you finish a <strong data-start=\"1072\" data-end=\"1085\">long rest</strong>.</p><p data-start=\"1088\" data-end=\"1152\">While Whimsical Form is active, you gain the following benefits:</p><p></p><p data-start=\"2011\" data-end=\"2108\"><strong data-start=\"2011\" data-end=\"2028\">Rubber Shape.</strong> During Whimsical Form, you can briefly distort your body in one minor way:</p><ul data-start=\"2109\" data-end=\"2536\"><li data-section-id=\"17l77ga\" data-start=\"2109\" data-end=\"2192\">As a reaction, you can completely resist one attack, however your body weight is reduced to 0.01lbs</li></ul><p data-start=\"2538\" data-end=\"2709\"><strong data-start=\"2538\" data-end=\"2559\">No Repeated Gags.</strong> Once you use a specific option from <strong data-start=\"2596\" data-end=\"2610\">Comic Prop</strong> during a combat, you cannot use that same option again until that combat ends.</p><p data-start=\"2711\" data-end=\"2728\"><strong data-start=\"2711\" data-end=\"2728\">Restrictions.</strong></p><ul data-start=\"2729\" data-end=\"3041\"><li data-section-id=\"b3q9jm\" data-start=\"2729\" data-end=\"2884\">You cannot create functioning weapons, money, tools of precise craftsmanship, or anything that duplicates a spell effect beyond what this feature states.</li><li data-section-id=\"18mxo8l\" data-start=\"2885\" data-end=\"2951\">Anything created is obviously whimsical, fragile, and temporary.</li><li data-section-id=\"devbmy\" data-start=\"2952\" data-end=\"3041\">Your body changes are visual and elastic, not true shapeshifting into another creature.</li></ul>"
+        },
+        {
+          "name": "Cult Initiate",
+          "description": "<p class=\"p1\">Your cult instructs you in eldritch rites, granting you the following benefits.</p><p class=\"p2\"><em><strong>Two Cantrips.</strong></em> You learn two cantrips of your choice from the Warlock spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat’s spells (choose the ability when you select this feat).</p><p class=\"p2\"><em><strong>Level 1 Spell.</strong></em> Choose a level 1 spell from the Warlock spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Short or Long Rest. You can also cast the spell using any spell slots you have.</p><p class=\"p2\"><em><strong>Spell Change.</strong></em> Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the Warlock spell list.</p>"
+        },
+        {
+          "name": "Ascendant Step",
+          "description": "<blockquote><p>Prerequisite: Level 5+ Warlock</p></blockquote><p>You can cast @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLevitate00]{Levitate} on yourself without expending a spell slot.</p><hr><p>@Embed[Compendium.dnd-players-handbook.spells.Item.phbsplLevitate00 inline]</p>"
+        },
+        {
+          "name": "Gaze of Two Minds",
+          "description": "<blockquote><p>Prerequisite: Level 5+ Warlock</p></blockquote><p>You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don’t maintain it in this way.</p><p>While perceiving through the other creature’s senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature’s space if the two of you are within 60 feet of each other.</p>"
+        },
+        {
+          "name": "Jester’s Japes",
+          "description": "<p>By calling down an aspect of the Great Fool, you can curse your foes. As an action, you target a creature you can see within 60 feet of you and force it to succeed on a Charisma saving throw against your spell save DC or suffer one of the following curses (your choice).</p><p class=\"p2\"><em><strong>Flower Spurt.</strong></em> You spray a strange liquid at the creature’s eyes, causing it to be &amp;reference[blinded apply=false].</p><p class=\"p2\"><em><strong>Clown Shoes.</strong></em> The creature’s feet or similar appendages grow to awkwardly exaggerated proportions. The creature’s speed is halved, and it has disadvantage on ability checks and saving throws that rely on Dexterity.</p><p class=\"p2\"><em><strong>Honk Honk.</strong></em> The creature emits sounds, such as honks, chimes, or squeaks, that are audible out to 100 feet with every movement, no matter how slight. The creature can’t hide and can’t benefit from the invisible condition.</p><p class=\"p2\"><em><strong>Jolly Arms.</strong></em> Any weapon or unarmed strike the creature attacks with, including natural weapons such as fangs and claws, takes on a comical appearance as if it were made of wood, stuffed cloth, or balloons. The target deals half damage with weapon attacks and unarmed strikes.</p><p class=\"p2\">The curse lasts for 1 minute. The creature repeats the saving throw at the end of each of its turns, ending the curse on a success.</p><p class=\"p2\">Once you use this feature, you can’t do so again until you finish a short or long rest.</p>"
+        },
+        {
+          "name": "Night Creature Transformation",
+          "description": "<p>At Midnight Hour you may tansform into a </p><p>@UUID[Compendium.the-crooked-moon-2014.tcm2014-bestiary.Actor.gIM2KVjsPra8DzZd]{Night Creature}</p>"
+        },
+        {
+          "name": "Jinxpiration",
+          "description": "<p>Burn your inspiration to take one action out of turn order. </p>"
+        },
+        {
+          "name": "Jinxed - 3s",
+          "description": "<p>You were born under an unfortunate star, or were afflicted with a hex that has permanently damaged your luck. Choose a number from 2 to 19. Whenever you roll that number on an ability check or attack roll, the d20 roll becomes a 1. Additionally, when a creature rolls that number on an attack or a contested ability check against you, the d20 roll becomes a 1.</p>"
+        },
+        {
+          "name": "Gift of the Depths",
+          "description": "<blockquote><p>Prerequisite: Level 5+ Warlock</p></blockquote><p>You can breathe underwater, and you gain a Swim Speed equal to your Speed.</p><p>You can also cast @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWaterBreat]{Water Breathing} once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.</p><hr><p>@Embed[Compendium.dnd-players-handbook.spells.Item.phbsplWaterBreat inline]</p>"
+        }
+      ]
+    },
+    {
+      "actorId": "3ymU9A5V897Uop6b",
       "name": "Patches",
-      "player": "patches",
-      "hp": { "value": 0, "max": 0 },
-      "ac": 0,
-      "bio": "Placeholder — real data comes from the Foundry actor once the module is pushing."
+      "player": "foundrymaster",
+      "hp": {
+        "value": 27,
+        "max": 27
+      },
+      "ac": 12,
+      "bio": "<p data-start=\"40\" data-end=\"414\">He hatched in a backwoods Kenku Collective—rural, rusted, and far from the roads that mattered. The elders loved old turns of phrase, twisted proverbs, and sayings so local they confused even other kenku. Every sentence was a riddle, a lyric, or a punchline delivered out of order.</p><p data-start=\"930\" data-end=\"1061\">He fit right in—talked too much, even by their standards. Where most spoke with poetic reserve, he chattered endlessly about <em data-start=\"1055\" data-end=\"1060\">Pop</em>.</p><p data-start=\"1063\" data-end=\"1338\">Saint Pop. Patron of speech, liberator of voices, hero of the kenku. The one who climbed the one who carved out a deity’s eye, and traded it for their tongues. Before Pop, kenku spoke only in echoes. After Pop, they spoke in full voice—and some, like the boy, never stopped.</p><p data-start=\"1340\" data-end=\"1723\">While other hatchlings worked or wandered, he filled the workshop with stories. Pop slaying demons. Pop stealing fire from the moon. Pop tricking death with a crowbar. The boy mimicked every tale, recited them in the dark, practiced the cadence like prayer. He didn’t just believe—he wanted to <em data-start=\"1675\" data-end=\"1679\">be</em> Pop. Brave. Clever. Loud. A giver of gifts.</p><p data-start=\"1725\" data-end=\"2147\">The elders finally sent him off—to Baldur’s Gate, with a supply list and Cawkrin Jones, a quick-witted rogue with a silver tongue and a thousand bad ideas. It didn’t take long for things to go sideways. Cawkrin dragged him to a casino instead of the market, tried to cheat roulette by mimicking the dealer’s voice. Both kenku were behind bars.</p><p data-start=\"2149\" data-end=\"2314\">Syndra Silvane bailed them out. She said she needed problem-solvers. Offered them a place on her expedition. All they had to do was make the teleport circle on time.</p><p data-start=\"2316\" data-end=\"2328\">They didn’t.</p><p data-start=\"2330\" data-end=\"2443\">The spell fired, but wrong—Syndra vanished cleanly. The two kenku scattered into the jungle, miles from the port.</p><p data-start=\"2445\" data-end=\"2614\">They wandered. Hungry. Tired. Cawkrin grew desperate and made a mistake—tried to rob the Wizard of Weirding. “Watch the door,” he told the boy. “Whistle if it goes bad.”</p><p data-start=\"2616\" data-end=\"2650\">The boy watched. Waited. Listened.</p><p data-start=\"2652\" data-end=\"2669\">He heard a shout.</p><p data-start=\"2671\" data-end=\"2684\">Then silence.</p><p data-start=\"2686\" data-end=\"2863\">Now he’s alone. Carrying nothing but a satchel of tools, a head full of stories, and guilt he can’t shake.</p><p data-start=\"2865\" data-end=\"2966\">The boy’s looking for heroes. Fighters. Sorcerers. Anyone strong enough to help him set things right.</p><p data-start=\"2968\" data-end=\"3043\">He still talks too much. Still tells Pop’s stories to anyone who’ll listen.</p><p data-start=\"3045\" data-end=\"3090\">Still wants to give the kenku something back.</p><p data-start=\"3092\" data-end=\"3114\">Still believes he can.</p>",
+      "race": "Kenku",
+      "background": "Scribe",
+      "classes": [
+        {
+          "name": "Necromancer",
+          "level": 6,
+          "subclass": "Reaper"
+        }
+      ],
+      "features": [
+        {
+          "name": "Expert Duplication",
+          "description": "<p>When you copy writing or craftwork produced by yourself or someone else, you have advantage on any ability checks you make to produce an exact duplicate.</p>"
+        },
+        {
+          "name": "Kenku Recall",
+          "description": "<p><span style=\"color:rgb(51, 51, 51);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;display:inline !important;float:none\">Thanks to your supernaturally good memory, you have proficiency in two skills of your choice.</span></p><ul><li><p><span style=\"box-sizing:border-box;margin-top:0px;margin-bottom:0px;color:rgb(51, 51, 51);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">Moreover, when you make an ability check using any skill in which you have proficiency, you can give yourself advantage on the check before rolling the d20. You can give yourself advantage in this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</span></p></li></ul>"
+        },
+        {
+          "name": "Mimicry",
+          "description": "<ol><li style=\"box-sizing:border-box\"><span style=\"box-sizing:border-box;margin-top:0px;margin-bottom:10px;color:rgb(51, 51, 51);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\">You can accurately mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations only with a successful Wisdom (Insight) check against a DC of 8 + your proficiency bonus + your Charisma modifier.</span></li></ol><p><span style=\"box-sizing:border-box;margin-top:0px;margin-bottom:10px;color:rgb(51, 51, 51);font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;white-space:normal;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial\"><br class=\"Apple-interchange-newline\" /></span></p>"
+        },
+        {
+          "name": "Skilled",
+          "description": "<p>You gain proficiency in any combination of three skills or tools of your choice.</p><p><strong>Repeatable.</strong> You can take this feat more than once.</p>"
+        },
+        {
+          "name": "Spellcasting",
+          "description": "<p>Your connection to the realm of negative energy allows you to cast powerful necromantic spells.</p><p></p><table><thead><tr><td colspan=\"12\">Necromancer Spellcasting</td></tr><tr><td>Level</td><td>Cantrips Known</td><td>Spells Known</td><td>1st</td><td>2nd</td><td>3rd</td><td>4th</td><td>5th</td><td>6th</td><td>7th</td><td>8th</td><td>9th</td></tr></thead><tbody><tr><td>1st</td><td>4</td><td>2</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>2nd</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>3rd</td><td>4</td><td>4</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>4th</td><td>5</td><td>5</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>5th</td><td>5</td><td>6</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>6th</td><td>5</td><td>7</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>7th</td><td>5</td><td>8</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>8th</td><td>5</td><td>9</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>9th</td><td>5</td><td>10</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>10th</td><td>6</td><td>11</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr><tr><td>11th</td><td>6</td><td>12</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>12th</td><td>6</td><td>12</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td></tr><tr><td>13th</td><td>6</td><td>13</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>14th</td><td>6</td><td>13</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>—</td><td>—</td></tr><tr><td>15th</td><td>6</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>16th</td><td>6</td><td>14</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>—</td></tr><tr><td>17th</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>18th</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td></tr><tr><td>19th</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>1</td><td>1</td><td>1</td></tr><tr><td>20th</td><td>6</td><td>15</td><td>4</td><td>3</td><td>3</td><td>3</td><td>3</td><td>2</td><td>2</td><td>1</td><td>1</td></tr></tbody></table><p></p><h3>Cantrips</h3><p>At 1st level, you know four cantrips of your choice from the @UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.journals.JournalEntry.rUFpsyUhPn8R9vp2.JournalEntryPage.Xteyrukdr7277t9h]{necromancer spell list}. You learn additional necromancer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Necromancer table.</p><h3>Spell Slots</h3><p>The Necromancer table shows how many spell slots you have to cast spells of the 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.</p><h3>Spells Known of 1st Level and Higher</h3><p>You know two 1st-level spells of your choice from the necromancer spell list.</p><p>You learn an additional necromancer spell of your choice at each level except 12th, 14th, 16th, 18th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.</p><p>Additionally, when you gain a level in this class, you can choose one of the necromancer spells you know and replace it with another spell from the necromancer spell list, which also must be of a level for which you have spell slots.</p><h3>Spellcasting Ability</h3><p>Intelligence is your spellcasting ability for your necromancer spells, since your power is rooted in the fine manipulation of negative energy and research into magical secrets. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a necromancer spell you cast and when making an attack roll with one.</p><p style=\"text-align:center\"><em><strong>Spell save DC</strong></em> = 8 + your proficiency bonus + your Intelligence modifier</p><p style=\"text-align:center\"><em><strong>Spell attack modifier</strong></em> = your proficiency bonus + your Intelligence modifier</p><h3>Ritual Casting</h3><p>You can cast any necromancer spell you know as a ritual if that spell has the ritual tag.</p><h3>Spellcasting Focus</h3><p>You can use an arcane focus as a spellcasting focus for your necromancer spells. For a necromancer, these are typically objects with sentimental value, such as a locket, childhood toy, prison shackle, or wedding ring, which are altered with magically conductive materials.</p>"
+        },
+        {
+          "name": "Charnel Touch",
+          "description": "<p>Your connection to the negative energy realm grants you an inner nexus of dangerous power, ready to be unleashed at a moment’s notice. Starting at 1st level, you have a pool of Charnel Touch points equal to your necromancer level × 5 that replenishes when you finish a long rest.</p><p>As an action, declare the number of points you wish to expend, up to a maximum of 5 × your proficiency bonus, and make a melee spell attack against one creature within your reach. On a hit, you expend the declared amount of points and deal necrotic damage equal to the points expended. If the attack misses, you don’t expend any points. The damage dealt by your Charnel Touch is doubled when you score a critical hit, expending no additional points.</p><p>This attack deals no damage to Constructs and instead heals Undead for the number of points expended. You can target a willing creature with this ability without making a spell attack roll.</p><p>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.journals.JournalEntry.hVI5iJCrWudNt1t0.JournalEntryPage.vGk02jpmgxkIeZ2v#variant-rule:-necromancy-unleashed]{Variant Rule: Necromancy Unleashed}</p><p></p><p><em><strong>*Foundry Note:</strong> The user will have to update the Damage formula to match the Item Uses Resource Consumption, if they decide to use more than 1 Charnel Touch Points.</em></p>"
+        },
+        {
+          "name": "Thralls",
+          "description": "<p>While lesser spellcasters can only animate flesh and bone in a rudimentary fashion, and must expend valuable energy to maintain their undead’s loyalty, true necromancers can provide their undead with a portion of their own life force, ensuring long-term obedience. Beginning at 2nd level, you learn an ancient and powerful ritual that allows you to raise and command your own army of the undead.</p><h3>Animate Thralls</h3><p>By spending 10 uninterrupted minutes performing this ritual with a spellcasting focus or component pouch, you can raise the remains of one or more Small or Medium Humanoids within 30 feet of you into Undead creatures. Undead created in this way become your thralls. You maintain control over your thralls indefinitely. Stat blocks for <strong>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.bestiary.Actor.rpgrJaE2VxQVOFhQ]{skeletons}</strong>, <strong>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.bestiary.Actor.84veSFEcqHpz8TAp]{zombies}</strong>, and other <strong>thralls</strong> can be found in the @UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.journals.JournalEntry.hVI5iJCrWudNt1t0.JournalEntryPage.J61JZKRvR7dB9Bg1#undead-thralls]{Undead Thralls} section at the end of the class description.</p><h3>Commanding Thralls</h3><p>You can mentally control all of your thralls while you are conscious without using any actions. If you are unconscious, your thralls will move to protect your body from harm, but will not attack.</p><p>In combat, your thralls take their turns immediately before or after your turn each round (your choice). All your thralls collectively share one reaction and bonus action, which a single thrall can use each round.</p><p>Thralls use your spell attack modifier to make their attacks.</p><h3>Maximum Thralls</h3><p>You can animate and control one thrall of challenge rating (CR) 1/4. As you gain levels in this class, you can animate more thralls. The combined CR of all your thralls can’t exceed the number shown in the Thrall CR Total column of the Necromancer table, and the total number of thralls under your control can never exceed your proficiency bonus.</p><p>At any time, you can use your action to sever your connection to one or more thralls, releasing them. Corporeal Undead crumple into a heap and incorporeal Undead flee to the Ethereal Plane.</p><h3>Animate Dead</h3><p>Beginning at 5th level, a necromancer can learn the <em>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.SebqiByepbP7JWpg]{animate dead}</em> spell, a staple of the school of necromancy. Necromancers can cast this spell as an action, instead of over the course of 1 minute.</p><div><p>All Undead created by the <em>animate dead</em> spell (as well as any other magic, such as the <em>@UUID[Compendium.dnd5e.spells.E4NXux0RHvME1XgP]{create undead}</em> spell, that allows you to control Undead) count as your thralls and can be commanded as such. If your new thralls granted to you by a spell cause you to exceed your total CR or number of thralls, you can immediately sever your connection to any of your existing thralls so as to stay within these limits. Your thralls can never command or create other Undead.</p><p>As always, you can’t reanimate Undead that have been reduced to 0 hit points. Your Animate Thralls ritual, the <em>animate dead</em> spell, and similar magic only affects Humanoid corpses, whereas your thralls are Undead creatures.</p><p>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.journals.JournalEntry.hVI5iJCrWudNt1t0.JournalEntryPage.vGk02jpmgxkIeZ2v#variant-thralls]{Sidebar: Variant Thralls}</p></div>"
+        },
+        {
+          "name": "Bag of Bones",
+          "description": "<div><p>Also at 2nd level, you learn how to create a necromantic magic item, a <em>bag of bones</em>. The bag connects to a vast extradimensional space that can only hold Medium or smaller corpses, bones, and Undead creatures; it violently expels anything else placed within it. You can use an action to place a corpse or willing Undead creature into the bag, up to a maximum of ten corpses or Undead creatures, or use your action to dump the contents of the bag, which land in spaces within 5 feet of you.</p><p>You can transform any container you can carry into a <em>bag of bones</em> by performing a special ritual over the course of 1 hour while you hold it. This container ceases to be magical if you perform this ritual again to create a new <em>bag of bones</em>. The container always connects to the same extradimensional space. If the bag is placed inside an extradimensional space, such as that created by a <em>@UUID[Compendium.dnd5e.items.aDHRuUs29SrumWfq]{bag of holding}</em>, it is destroyed. Its contents remain in the same extradimensional space until you create a new bag.</p></div>"
+        },
+        {
+          "name": "Grave Ambition",
+          "description": "<div><p>When you reach 3rd level, you decide on a proper path of research into the dark arts in order to carve a path leading toward your ultimate goal. Choose a Grave Ambition, detailed at the end of the class. Your choice grants you features at 3rd level, and again at 6th, 10th, and 20th level.</p><p></p><table><thead><tr><td colspan=\"2\">Grave Ambitions</td></tr><tr><td>Name</td><td>Description</td></tr></thead><tbody><tr><td>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.RCpNcbu6Sd7ODk8w]{Blood Ascendant}</td><td>Granted power from vampiric blood, without the myriad vampiric weaknesses</td></tr><tr><td>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.iwZLctRmSxd6jkTH]{Death Knight}</td><td>Clad in armor, a terrible warrior brandishing dark energies and martial weapons</td></tr><tr><td>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.RpBgrK6Cqt6eruqF]{Overlord}</td><td>A sinister manipulator backed by powerful allies</td></tr><tr><td>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.Ouyj0XslNR4TRObw]{Pale Master}</td><td>Emphasizes the purest form of necromancy and brandishes devastating spells</td></tr><tr><td>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.Xn4esy3DS5ofSztx]{Pharaoh}</td><td>An echo of the ancient god-kings, a priest and necromancer in equal measure</td></tr><tr><td>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.smuFrqb522jgHgc1]{Plague Lord}</td><td>A necromantic disease carrier who commands vile, corpulent minions</td></tr><tr><td>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.Ze77rKj9w7iH4tFZ]{Reanimator}</td><td>A mad scientist that stitches together new and terrible undead minions</td></tr><tr><td>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.IwCb7ynC8jTY6Pxi]{Reaper}</td><td>A furtive shadow of death, who foretells and beckons demise</td></tr></tbody></table></div>"
+        },
+        {
+          "name": "Black Arcana",
+          "description": "<p>Also beginning at 3rd level, as a bonus action, you can expend a spell slot to replenish your Charnel Touch pool. Your pool regains [[/r 1d8]] expended points, plus 1d8 for each level of the spell slot expended, up to a maximum of your pool’s total.</p><p></p><table><thead><tr><td colspan=\"2\">Black Arcana</td></tr><tr><td>Spell Slot</td><td>Points Regained</td></tr></thead><tbody><tr><td>1st</td><td>[[/r 2d8]]</td></tr><tr><td>2nd</td><td>[[/r 3d8]]</td></tr><tr><td>3rd</td><td>[[/r 4d8]]</td></tr><tr><td>4th</td><td>[[/r 5d8]]</td></tr><tr><td>5th</td><td>[[/r 6d8]]</td></tr><tr><td>6th</td><td>[[/r 7d8]]</td></tr><tr><td>7th</td><td>[[/r 8d8]]</td></tr><tr><td>8th</td><td>[[/r 9d8]]</td></tr><tr><td>9th</td><td>[[/r 10d8]]</td></tr></tbody></table><p></p><p><em><strong>*Foundry Note:</strong> The user will have to manually expend a spell slot of their choice. They can then use the Points Regained column to calculate how many points they can regain.</em></p>"
+        },
+        {
+          "name": "Ability Score Improvement",
+          "description": "<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.</p>"
+        },
+        {
+          "name": "Reaper Spells",
+          "description": "<div><p>When you choose this ambition at 3rd level, you learn additional spells as noted in the table below. Each of these spells counts as a necromancer spell for you, but doesn’t count against the number of necromancer spells you know. </p><p></p><table><thead><tr><td>Spell Level</td><td>Spells</td></tr></thead><tbody><tr><td>1st</td><td><em>@UUID[Compendium.dnd5e.spells.7e3QXF10hLNDEdr6]{false life}, @UUID[Compendium.dnd5e.spells.ksaaTxIbKx2sJfia]{inflict wounds}</em></td></tr><tr><td>2nd</td><td><em>@UUID[Compendium.dnd5e.spells.1N8dDMMgZ1h1YJ3B]{invisibility}, @UUID[Compendium.dnd5e.spells.5VhqFROQYjr1P9lp]{silence}</em></td></tr><tr><td>3rd</td><td><em>@UUID[Compendium.dnd5e.spells.XXUDGFELgoskdOD0]{fear}, @UUID[Compendium.dnd5e.spells.I2LUSF5ogc7Bj62e]{speak with dead}</em></td></tr><tr><td>4th</td><td><em>@UUID[Compendium.dnd5e.spells.tEpDmYZNGc9f5OhJ]{greater invisibility}, @UUID[Compendium.dnd5e.spells.BYNvBJzHcF5VJhXw]{phantasmal killer}</em></td></tr><tr><td>5th</td><td><em>@UUID[Compendium.dnd5e.spells.MBMaQLwoy05qzMJ3]{mislead}, @UUID[Compendium.dnd5e.spells.d9MwcXi7Il3HROXd]{passwall}</em></td></tr></tbody></table></div>"
+        },
+        {
+          "name": "Charnel Veil",
+          "description": "<div><p>At 3rd level, you can fade from view like a specter of death. When you hit with a @UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.valdas-classes.Item.5OujQ138AypwmrHh]{Charnel Touch} attack and expend 5 or more points, you become invisible until the start of your next turn. This effect ends early if you move 15 feet or more.</p></div><p></p><p><em><strong>*Foundry Note:</strong> The item uses default is 5, if the user would like to spend more Charnel Touch points they will have to update it accordingly.</em></p>"
+        },
+        {
+          "name": "Critical Spellcasting | Level 5",
+          "description": "<div><p>At 5th level, your potent necrotic powers punish your enemy at the first sign of weakness. When a creature rolls a 1 on a saving throw against one of your spells, it automatically fails the save, and you can roll all the spell’s damage dice a second time, adding the total to the spell’s damage against that creature. The additional damage only applies to the creature that rolled a 1.</p><p>Additionally, your spell attacks score a critical hit on a roll of 19 or 20.</p><p>Starting at 14th level, a creature automatically fails its saving throw against your spells and takes additional damage when it rolls a 1 or a 2. Additionally, your spell attacks score a critical hit on a roll of 18–20.</p></div>"
+        },
+        {
+          "name": "Umbral Form",
+          "description": "<div><p>Beginning at 6th level, as an action, you can flatten your body into a shadow upon the floor.</p><p>As a shadow, your movement speed doubles and you gain a climbing speed equal to your movement speed. You can move across difficult surfaces, including ceilings, without needing to make an ability check. As a shadow, you can only move along surfaces; you can’t jump or fly.</p><p>Attacks against you have disadvantage while you are in shadow form. In darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.</p><p>As a shadow, you can’t take actions. Your equipment merges with your shadow form and has no effect until you leave the form.</p><p>You can end this effect as a bonus action or when you start your turn (no action required).</p></div>"
+        },
+        {
+          "name": "Jinxpiration",
+          "description": "<p>Burn your inspiration to take one action out of turn order. </p>"
+        },
+        {
+          "name": "Hand of Death",
+          "description": "<p class=\"p1\">Death has no claim on you. In exchange for staying its cold hand without that hand closing, you become a maw through which death feeds on the world around you.</p><p class=\"p2\"><em><strong>Adamant Endurance.</strong></em> You have Advantage on Constitution saving throws.</p><p class=\"p2\"><em><strong>Cling to Life.</strong></em> When you have 0 Hit Points at the start of your turn, or when you die, you can instead choose to regain a number of Hit Points equal to half your maximum. Once you use this feature, you can’t use it again. After using it, whenever you regain Hit Points through any means, you gain only half that amount. Once a Humanoid (other than you) dies within 30 feet of you, you regain the use of this feature, and you can regain Hit Points as normal.</p><p class=\"p2\"><em><strong>Death Knell.</strong></em> Other creatures within 10 feet of you have Disadvantage on Death Saving Throws, and you can’t restore Hit Points to a creature with 0 Hit Points by any means.</p>"
+        },
+        {
+          "name": "Get Jinxed",
+          "description": "<p>Ready a bonus action or use a reaction before the hit to force an enemy to reroll whether they hit or not.</p>"
+        }
+      ]
+    },
+    {
+      "actorId": "MStMsjJLMxHJvgqD",
+      "name": "Adam Thorne",
+      "player": "foundrymaster",
+      "hp": {
+        "value": 23,
+        "max": 67
+      },
+      "ac": 17,
+      "bio": "<h1>Backstory</h1><p>I remember very little of my first life. There are fragments my sister laughing, my father reading by candlelight, music drifting through the house at night. Those memories are all I have left of the person I used to be. Everything else ends in cold and darkness. The night we died, I tried to save her. I was older. I should have been stronger. Faster. Braver. But when the moment came, I failed. I still remember my father’s face when he found us. He wasn’t screaming or crying just staring at me like something inside him had broken. the light left my eyes as i held my sisters hand. My father was a brilliant man, the sort who believed every problem had a solution if you were clever enough. Death, he decided, was simply another problem. I don’t know how long I was gone. I only remember waking up on a cold table beneath dim lights, my father standing over me with shaking hands. My body was different. Stronger. Harder. Not flesh the way it once was. People look at me differently now. Like they know something is wrong. Like they’re waiting for the moment the monster inside me finally shows itself. Sometimes I think they might be right. I barely remember the life I lost, but I cling to those memories as proof that I’m still human.</p>",
+      "race": "Arisen",
+      "background": "Haunted One",
+      "classes": [
+        {
+          "name": "Monk",
+          "level": 7,
+          "subclass": "Warrior of Regret"
+        }
+      ],
+      "features": [
+        {
+          "name": "Martial Arts",
+          "description": "<div class=\"ddb\">\n<p>Your practice of martial arts gives you mastery of combat styles that use your Unarmed Strike and Monk weapons, which are the following:</p>\n<ul>\n<li>Simple Melee weapons</li>\n<li>Martial Melee weapons that have the Light property</li>\n</ul>\n<p>You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren’t wearing armor or wielding a Shield.</p>\n<p><strong><em>Bonus Unarmed Strike.</em></strong> You can make an Unarmed Strike as a Bonus Action.</p>\n<p><strong><em>Martial Arts Die.</em></strong> You can roll 1d6 in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table.</p>\n<p><strong><em>Dexterous Attacks.</em></strong> You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC.</p>\n<section class=\"secret ddbSecret\" id=\"secret-ddbMartialArts\">\n<p><strong>Implementation Details</strong></p>\n<p>DDB Importer will automatically adjust the Unarmed Strike and appropriate weapons during import. These enchantment activities are provided if you need to adjust another weapon in play.</p>\n</section>\n</div>"
+        },
+        {
+          "name": "Unarmored Defense",
+          "description": "<div class=\"ddb\">\n<p>While you aren’t wearing armor or wielding a Shield, your base Armor Class equals 10 plus your Dexterity and Wisdom modifiers.</p>\n</div>"
+        },
+        {
+          "name": "Monk's Focus",
+          "description": "<div class=\"ddb\">\n<p>Your focus and martial training allow you to harness a well of extraordinary energy within yourself. This energy is represented by Focus Points. Your Monk level determines the number of points you have, as shown in the Focus Points column of the Monk Features table.</p>\n<p>You can expend these points to enhance or fuel certain Monk features. You start knowing three such features: Flurry of Blows, Patient Defense, and Step of the Wind, each of which is detailed below.</p>\n<p>When you expend a Focus Point, it is unavailable until you finish a Short or Long Rest, at the end of which you regain all your expended points.</p>\n<p>Some features that use Focus Points require your target to make a saving throw. The save DC equals 8 plus your Wisdom modifier and Proficiency Bonus.</p>\n<p><strong><em>Flurry of Blows.</em></strong> You can expend 1 Focus Point to make two Unarmed Strikes as a Bonus Action.</p>\n<p><strong><em>Patient Defense.</em></strong> You can take the Disengage action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and the Dodge actions as a Bonus Action.</p>\n<p><strong><em>Step of the Wind.</em></strong> You can take the Dash action as a Bonus Action. Alternatively, you can expend 1 Focus Point to take both the Disengage and Dash actions as a Bonus Action, and your jump distance is doubled for the turn.</p>\n</div>"
+        },
+        {
+          "name": "Unarmored Movement",
+          "description": "<div class=\"ddb\">\n<p>Your speed increases by 10 feet while you aren’t wearing armor or wielding a Shield. This bonus increases when you reach certain Monk levels, as shown on the Monk Features table.</p>\n</div>"
+        },
+        {
+          "name": "Uncanny Metabolism",
+          "description": "<div class=\"ddb\">\n<p>When you roll Initiative, you can regain all expended Focus Points. When you do so, roll your Martial Arts die, and regain a number of Hit Points equal to your Monk level plus the number rolled.</p>\n<p>Once you use this feature, you can’t use it again until you finish a Long Rest.</p>\n</div>"
+        },
+        {
+          "name": "Deflect Attacks",
+          "description": "<div class=\"ddb\">\n<p>When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack’s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.</p>\n<p>If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack’s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn’t behind Total Cover if the attack was a ranged attack. That creature must succeed on a [[/save dex format=long]] or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.</p>\n</div>"
+        },
+        {
+          "name": "Slow Fall",
+          "description": "<div class=\"ddb\">\n<p>You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.</p>\n</div>"
+        },
+        {
+          "name": "Extra Attack",
+          "description": "<div class=\"ddb\">\n<p>You can attack twice instead of once whenever you take the Attack action on your turn.</p>\n</div>"
+        },
+        {
+          "name": "Stunning Strike",
+          "description": "<div class=\"ddb\">\n<p>Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike, you can expend 1 Focus Point to attempt a stunning strike. The target must make a [[/save con format=long]]. On a failed save, the target has the Stunned condition until the start of your next turn. On a successful save, the target’s Speed is halved until the start of your next turn, and the next attack roll made against the target before then has Advantage.</p>\n</div>"
+        },
+        {
+          "name": "Shade of Regret",
+          "description": "<div class=\"ddb\">\n<p>Once per turn, you can expend 1 Focus Point (no action required) to create a shade of yourself in an unoccupied space you can see within 10 feet of yourself. The shade is intangible and doesn’t occupy its space. It lasts until the end of your next turn, but it ends early if you dismiss it (no action required) or have the Incapacitated condition.</p>\n<p>While it persists, you gain the following benefits.</p>\n<p><strong>Shade Strike.</strong> When you use Flurry of Blows, you can have the attacks originate from the shade instead of you. Attacks originating from the shade deal Necrotic or Force damage (your choice) rather than their normal damage type.</p>\n<p><strong>Move.</strong> As a Bonus Action, you can move the shade up to 60 feet to an unoccupied space you can see that is within 60 feet of yourself.</p>\n</div>"
+        },
+        {
+          "name": "The Road Not Traveled",
+          "description": "<div class=\"ddb\">\n<p>When you take the Dash action, you can teleport yourself or an ally within 60 feet of you to the location of your shade.</p>\n</div>"
+        },
+        {
+          "name": "Living Shadow",
+          "description": "<div class=\"ddb\"><p><em>Dark Gift Feat (Prerequisite: Ravenloft Campaign)</em></p><p>The shadow you cast is animate and ever-present—sometimes it even acts according to its own will. You gain the following features.</p><p><em><strong>Grasping Shadow.</strong></em> You learn the <em>Mage Hand</em> spell and can cast it without spell components. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this feat).</p><p><em><strong>Lengthened Strike.</strong></em> When you make a melee attack roll as part of the Attack or Magic action on your turn, you can increase your reach for that attack by 10 feet, as your shadow stretches to aid you. You can use this feature a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.</p><p><em><strong>Ominous Will.</strong></em> Immediately after you make a D20 Test and roll a 1 on the d20, your shadow attempts to exert its will. Make a [[/save wis format=long]] (DC 13 plus your Proficiency Bonus). On a failed save, you have the Incapacitated condition until the start of your next turn, at which point you must roll on the Shadow’s Will table to determine what you do during that turn.</p><table class=\"table-compendium table--generic-dice\"><caption><h5>Shadow’s Will</h5></caption><thead><tr><th>1d8</th><th>Behavior</th></tr></thead><tbody><tr><td>1</td><td>You don’t take an action or a Bonus Action, and you use all your movement to move. Roll 1d4 for the direction: 1, north; 2, east; 3, south; or 4, west.</td></tr><tr><td>2–6</td><td>You don’t move or take a Bonus Action, and you take the Attack action to make one melee attack against a random creature within reach. If none are within reach, you take no action.</td></tr><tr><td>7–8</td><td>You have the Prone condition, and your turn ends.</td></tr></tbody></table><div id=\"table-link\"><p>@UUID[Compendium.world.ddb-the-crooked-moon-ddb-tables.RollTable.dqSiYxBX37Ftmb10]{Open RollTable Living Shadow: Ominous Will}</p></div></div>"
+        },
+        {
+          "name": "Magical Fortification",
+          "description": "<div class=\"ddb\">\n<p>The more that magic threatens you, the more your resilience to it increases. Choose an ability score: Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma. You have Advantage on saving throws using that ability score against spells and other magical effects.</p>\n</div>"
+        },
+        {
+          "name": "Tenacious",
+          "description": "<div class=\"ddb\">\n<p>Your enemies might put you down, but you are never down for long. You have Advantage on Death Saving Throws.</p>\n</div>"
+        },
+        {
+          "name": "Toughness",
+          "description": "<div class=\"ddb\">\n<p>An intrinsic hardiness marks you as one born for battle. Your Hit Point maximum increases by 1, and it increases by 1 each time you gain a level.</p>\n</div>"
+        },
+        {
+          "name": "Artificial Form",
+          "description": "<div class=\"ddb\">\n<p>You were made, not born, and your unnatural origin forever marks you as different. You are a Construct, but your enchanted form still benefits from healing spells. You can also heal yourself by spending Hit Dice during Short Rests and Long Rests, as normal.</p>\n<p>You don’t need to eat, drink, sleep, or breathe. You must still be inactive for 8 hours during a Long Rest to gain its benefits.</p>\n</div>"
+        },
+        {
+          "name": "Inured to the Elements",
+          "description": "<div class=\"ddb\">\n<p>Even beneath scorching sun and in freezing cold, you hold yourself strong. You have Advantage on Constitution saving throws made to resist the effects of extreme cold or extreme heat.</p>\n</div>"
+        },
+        {
+          "name": "Embrace the Past",
+          "description": "<div class=\"ddb\">\n<p>The lessons of the past are harsh, but learning those lessons might give you the best &amp;Reference[ins]{insight} for navigating the future. You have proficiency in the &amp;Reference[his]{History} skill.</p>\n</div>"
+        },
+        {
+          "name": "Magical Insight",
+          "description": "<div class=\"ddb\">\n<p>Magic is power in the right hands, and those hands are yours. You have proficiency in the &amp;Reference[arc]{Arcana} skill.</p>\n</div>"
+        },
+        {
+          "name": "Unnatural Healer",
+          "description": "<div class=\"ddb\">\n<p>Your innate healing abilities let you recover from some of the grimmest wounds. During a Long Rest, you can automatically reverse Grievous Wounds. Additionally, you can reattach any severed body parts (fingers, legs, tails, and so on), which are automatically restored at the end of the Long Rest. If your severed body parts aren’t available, you can replace them with the same body parts of another creature of the same general anatomy as you. If you wish to intentionally swap out body parts with replacements, you can sever your own body parts with no pain or discomfort.</p>\n<p>The ability to make use of unusual body parts (for example, giving yourself the taloned paw of a lion if you lose a hand) are left to the GM’s discretion. In any event, swapping a severed body part for an unusual body part grants you no mechanical Advantages not covered by other traits (see “<a href=\"https://www.dndbeyond.com/sources/dnd/ghpg/chapter-1-heritages-traits/#FeaturesandTraits\">Features and Traits</a>”).</p>\n</div>"
+        },
+        {
+          "name": "Self-Serving Sacrifice",
+          "description": "<p class=\"p1\">You can snatch others from the jaws of death, but your own grip lingers too tightly. The feeling of saving others from suffering fills you with resolve, even as it drains the vigor from those you rescue.</p><p class=\"p2\"><span class=\"s1\"><em><strong>Critical Savior.</strong></em> When a creature within 120 feet of you is subjected to a Critical Hit or is reduced to 0 Hit Points, you can use your Reaction to magically switch places with the target. Each of you teleports to the other’s space. Roll a number of d6s equal to half your level. You take &amp;reference[Force apply=false] damage equal to the total rolled, you gain Heroic Inspiration, and your Exhaustion level, if any, is reduced by 1. The target regains Hit Points equal to the total rolled and gains 1 &amp;reference[Exhaustion apply=false] level. You can’t use this feature again until you finish a Short or Long Rest.</span></p><p class=\"p2\"><em><strong>Draining Presence.</strong></em> When you finish a Short or Long Rest, each creature within 100 feet of you loses one Hit Point Die (before spending Hit Dice in the case of finishing a Short Rest).</p><p class=\"p2\"><em><strong>Final Sacrifice.</strong></em> You can cast <em>@UUID[Compendium.dnd5e.spells.Item.qLeEXZDbW5y4bmLY]{True Resurrection}</em> using this bargain requiring no spell slot or spell components. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spell when you cast it without a spell slot (choose the ability when you select this Dark Bargain).</p><p class=\"p2\">When you cast the spell this way, you die, and nothing can prevent it. Your soul is bound to torment the creature you returned to life, and you can’t be raised from the dead by any means. When the creature takes a Long Rest, it must roll a d20 halfway through the rest’s duration. On a 1, your soul takes the form of a <strong>@UUID[Compendium.dnd5e.actors24.Actor.mmWraith00000000]{Wraith} </strong>within 100 feet of the creature and tries to kill it. The wraith vanishes after 8 hours, or when it dies. Once the wraith appears, it can’t appear again for 30 days.</p>"
+        },
+        {
+          "name": "Jinxpiration",
+          "description": "<p>Burn your inspiration to take one action out of turn order. </p>"
+        },
+        {
+          "name": "Evasion",
+          "description": "<p class=\"feature\">If the [[lookup @name lowercase]] is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the [[lookup @name lowercase]] instead takes no damage if it succeeds on the save and only half damage if it fails. It can’t use this trait if it has the Incapacitated condition.</p>"
+        }
+      ]
+    },
+    {
+      "actorId": "8kW7CY1YJmC2lB59",
+      "name": "Vinnie Provolone",
+      "player": "drew",
+      "hp": {
+        "value": 52,
+        "max": 52
+      },
+      "ac": 18,
+      "bio": "<p>bastard son of Gadfather Vito Provolone.</p><p>giant mouse cock.</p>",
+      "race": "Mousefolk",
+      "background": "Wayfarer",
+      "classes": [
+        {
+          "name": "Illrigger",
+          "level": 7,
+          "subclass": "Shadowmaster"
+        }
+      ],
+      "features": [
+        {
+          "name": "Scurry",
+          "description": "<div><p>You can move through the space of any hostile creature as if it were difficult terrain.</p></div>"
+        },
+        {
+          "name": "Squeeze",
+          "description": "<div><p>You suffer no penalty for squeezing into a space that is only large enough for a creature that is one size smaller than you.</p></div>"
+        },
+        {
+          "name": "Mousefolk Lineage",
+          "description": "<div><p>Mousefolk belong to a lineage of mouselings or ratlings. Choose one of the following lineage options:</p><p><em><strong>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.races-and-feats.Item.QgVdU4iFKhAPXaDy]{Mouseling’s Sidestep.}</strong></em> When a creature you can see makes an opportunity attack against you, you can use your reaction to impose disadvantage on the attack roll. You can’t use this trait when wearing medium or heavy armor.</p><p><em><strong>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.races-and-feats.Item.j785Endh4VaJyfwA]{Ratling’s Gnaw.}</strong></em> You can use your action to chew through and break a small nonmagical object that isn’t being worn or carried, like a rope, a wooden rod or handle, or a length of fabric. If you chew on a wooden wall or floor for 1 minute, you can gnaw a hole large enough for a Tiny creature. You can’t chew through materials that are harder than your teeth, such as metal, stone, or crystal.</p></div>"
+        },
+        {
+          "name": "Ratling's Gnaw",
+          "description": "<div><p>You can use your action to chew through and break a small nonmagical object that isn’t being worn or carried, like a rope, a wooden rod or handle, or a length of fabric. If you chew on a wooden wall or floor for 1 minute, you can gnaw a hole large enough for a Tiny creature. You can’t chew through materials that are harder than your teeth, such as metal, stone, or crystal.</p></div>"
+        },
+        {
+          "name": "Thread of Deliverance",
+          "description": "<p>A character bound by the Thread of Deliverance seeks an inherited family heirloom of great importance and power that was broken apart and lost during a previous trip they took aboard the <em>Ghostlight Express</em>. They follow a soul-powered compass that they hope will lead to the artifact’s pieces and the truth behind its fateful purpose once made whole.</p><p class=\"p2\"><strong>Goal.</strong> The character must find all three of the pieces of the fractured artifact and restore it to discover its origin, true power, and how to harness it for themselves.</p><p class=\"p2\"><strong>Personalization.</strong> Determine what type of item the family heirloom is and why it’s special to the character. Who was the family member they inherited it from, and what was their relationship like? Which Druskenvald province was it retrieved from and how did they first find it?</p><p class=\"p2\"><strong>Call to Adventure.</strong> After the character retrieved the inherited heirloom from Druskenvald, their return trip aboard the <em>Ghostlight Express</em> was interrupted by a hooded, lantern-bearing figure that stole the artifact, split it into three pieces, and ejected the character from the train into the Shroud. The character miraculously survived and emerged somewhere in the mortal realms with a strange, broken compass in their possession. Time has since passed, but one night, the compass glows with ghastly energy, its needle pointing toward wherever the adventure begins.</p><p class=\"p2\"><strong>Associated Background.</strong> @UUID[Compendium.the-crooked-moon-2014.tcm2014-player-options.Item.yXDj2J5izzGu6Xtm]{Ghostlight Passenger}<span class=\"s1\">*</span></p>"
+        },
+        {
+          "name": "Baleful Interdict",
+          "description": "<p>You gain the ability to censure creatures with the power of Hell. Once on your turn, you can place a magical seal on a creature within 30 feet of you. You can either place this seal when you hit that target with a weapon attack (no action required), or you can use a bonus action to place this seal on a target you can see within range. This seal lasts for 1 minute or until burned (see “Burning Seals” below). A creature with one or more of your seals is referred to as an interdicted creature. Seals you place are invisible to other creatures, and when you can see an interdicted creature, the seals appear to you as glowing glyphs on the creature's body.</p><p>You can only place a limited number of seals before resting, and you regain all seals when you finish a short or long rest. The number of seals you can place increases as you gain illrigger levels, as indicated in the Seals column of the Illrigger table.</p><p>If an interdicted creature dies, you can use a bonus action on your turn to move all seals placed on them to a new creature you can see within 30 feet of them. Each seal's duration continues to elapse when an interdicted creature dies and when that seal is moved to a new creature.</p><p><strong>Burning Seals. </strong>When an interdicted creature you can see within 30 feet of you takes damage from any source other than a seal burned by an illrigger, you can burn any number of seals you placed on them to deal 1d6 fire or necrotic damage (your choice) to that creature per seal burned. You deal this damage immediately after the triggering damage. Burning a seal doesn't require an action from you, but you can't do so while incapacitated. Once a seal is burned, it immediately vanishes</p><p>Once you reach 5th level in this class, your connection to your archdevil strengthens. Each burned seal deals an extra 1d6 damage, for a total of 2d6. The damage of each seal increases again by 1d6 when you reach 11th level (for a total of 3d6) and 20th level (for a total of 4d6) in this class, as indicated in the Seal Damage column of the Illrigger table.</p><p><strong>Interdict Save.</strong> Class features you gain later can add additional effects to your Baleful Interdict and require your target to make a saving throw to resist them . The saving throw DC for these effects uses your interdict save DC, which is calculated as follows:</p><p style=\"text-align:center\"><strong>Interdict save DC</strong> = 8 + your proficiency bonus + your Charisma modifier</p>"
+        },
+        {
+          "name": "Forked Tongue",
+          "description": "<p>You can instinctively speak, read, and write Infernal.</p><p>In addition, you can speak two other languages of your choice, but you can't read or write them . When you finish a long rest, you can draw on your archdevil's knowledge to replace one of these two languages . When you do, choose another language whose name you know; you magically forget the previous language and gain this new one instead . Once you replace a language in this way, you must finish a long rest before you can do so again.</p><p>Starting at 9th level, this feature grants you another language, for a total of three (in addition to Infernal) . Furthermore, you gain advantage on Wisdom (Insight) checks made to ascertain the intentions or sincerity of creatures.</p>"
+        },
+        {
+          "name": "Lucky",
+          "description": "<p>You gain the following benefits.</p><p><strong>Luck Points.</strong> You have a number of Luck Points equal to your Proficiency Bonus and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.</p><p><strong>Advantage.</strong> When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.</p><p><strong>Disadvantage.</strong> When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.</p><section id=\"secret-6TFD3CUAlQhYUp4d\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature includes the appropriate number of uses and scales as you level up.</p><p>The <strong>Advantage</strong> and <strong>Disadvantage</strong> activities expend a use but do not enforce the Advantage/Disadvantage.</p></section>"
+        },
+        {
+          "name": "Combat Mastery",
+          "description": "<p>Your archdevil grants you uncanny skill in a certain form of combat. Choose one of the following illrigger combat masteries:</p><p>@UUID[Compendium.mcdm-class-bundle.classes.Item.5DhsGwzumrgULn3D]{Bravado}</p><p>@UUID[Compendium.mcdm-class-bundle.classes.Item.iC849FaM1qEcsvV7]{Brutal}</p><p>@UUID[Compendium.mcdm-class-bundle.classes.Item.hC3BMF52g5QjfKxL]{Inexorable}</p><p>@UUID[Compendium.mcdm-class-bundle.classes.Item.CTeYV3PUGDZdP3ul]{Lies}</p><p>@UUID[Compendium.mcdm-class-bundle.classes.Item.K2GedFKNoZ4u99qX]{Lissome}</p><p>@UUID[Compendium.mcdm-class-bundle.classes.Item.rfvnJR01Cvra80Ux]{Unfettered}</p>"
+        },
+        {
+          "name": "Interdiction",
+          "description": "<p>You can infuse your seals with hellish magical power, enhancing their effects.</p><p><strong>Interdict Boons Known.</strong> You learn one interdict boon of your choice from the “Interdict Boons” section at the end of the class's description . As you gain levels in this class, you gain additional boons of your choice, as shown in the Interdict Boons column of the Illrigger table. Each new boon must be of a level you can learn. When you reach 7th level, for example, you learn one new boon of 2nd or 7th level.</p><p>Whenever you gain an illrigger level, you can choose a boon you know and replace it with another boon you can learn.</p><p><strong>Using Interdict Boons.</strong> Some boons allow you to expend unplaced seals to fuel abilities, while others empower all your seals or grant you benefits against interdicted creatures.</p><p>The boons that grant passive (or “always on”) benefits, such as the 2nd-level Swift Retribution boon, are marked with a “Passive” tag. You don't need to expend a seal or take an action to benefit from the passive boons you know. All other boons, such as the 2nd-level Abating Seal boon, must be activated on a turn (for example, by expending a seal). You can activate only one non-passive boon per turn, regardless of how many you know.</p>"
+        },
+        {
+          "name": "Unfettered",
+          "description": "<p>When you use your @UUID[Compendium.mcdm-class-bundle.classes.Item.v5tWvb369dg4hgxe]{Baleful Interdict} to place or burn a seal, its range is 60 feet instead of 30 feet. When you gain the @UUID[Compendium.mcdm-class-bundle.classes.Item.VAbY2ehoan1mILms]{Infernal Conduit} feature at 6th level, its range is 30 feet instead of touch.</p><p>In addition, making a ranged attack while within 5 feet of a hostile creature does not impose disadvantage on the attack roll.</p><fieldset><legend>Foundry Note</legend><p>You can use the two Enchant activities to increase the ranges of your <strong>Baleful Interdict</strong> and <strong>Infernal Conduit</strong> feature.</p></fieldset>"
+        },
+        {
+          "name": "Abating Seal",
+          "description": "<p>When a creature you can see damages you or an ally within 30 feet of you, you can expend a seal as a reaction to reduce the damage taken by the target by an amount equal to 1d10 + half of your illrigger level (rounded down).</p>"
+        },
+        {
+          "name": "Diabolic Contract",
+          "description": "<p>You sign a diabolic contract with an archdevil who welcomes you into the Order of Desolation. Choose between the Architect of Ruin (Asmodeus), Hellspeaker (Moloch), Painkiller (Dispater), Sanguine Knight (Sutekh), or Shadowmaster (Belial) as your archdevil. Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.</p>"
+        },
+        {
+          "name": "Invoke Hell",
+          "description": "<p>Your diabolic connection allows you to channel infernal energy to empower magical effects. Your chosen diabolic contract grants you two Invoke Hell options and describes how to use each.</p><p>When you use your Invoke Hell, you choose which option to use. You must then finish a short or long rest to use your Invoke Hell again.</p><p>Some Invoke Hell effects require a saving throw. When you use such an effect, the DC equals your interdict save DC.</p>"
+        },
+        {
+          "name": "Marked for Death",
+          "description": "<p>You are particularly skilled against foes you mark for death. You have advantage on your first attack against an interdicted creature on each of your turns.</p>"
+        },
+        {
+          "name": "Strike from the Dark",
+          "description": "<p>You understand the power of striking from the shadows. Once per turn, when you hit an interdicted creature with a melee weapon attack and you have advantage on the attack roll, you can roll a number of d4s equal to your proficiency bonus and deal extra damage equal to the total you rolled. This damage increases by 1d4 if the target is in dim light or darkness.</p>"
+        },
+        {
+          "name": "Invoke Hell: Master of Disguise",
+          "description": "<p>As an action, you can cast the @UUID[Compendium.dnd5e.spells.Item.A3q2gTNqG6fvNGrv] spell without expending a spell slot.</p>"
+        },
+        {
+          "name": "Invoke Hell: No Escape",
+          "description": "<p>As a bonus action, you can call on the shadows to entrap a creature you can see within 30 feet of you. The target must make a Charisma saving throw, made with disadvantage if they are in dim light or darkness. On a failed save, the target's speed is halved and they can't willingly move more than 30 feet away from you. This effect ends for the target if you are &amp;reference[incapacitated apply=false] or die or if the target is more than 30 feet away from you.</p>"
+        },
+        {
+          "name": "Psionic Initiate",
+          "description": "<p>You can tap into the power of your mind to manifest powers, granting you the following benefits:</p><ul><li><p>You learn two 1st-order powers of your choice.</p></li><li><p>You learn one 2nd-order power of your choice and can manifest it at its lowest order without needing to make a manifestation test . Once you manifest this power using this feat, you can't do so again until you finish a short or long rest.</p></li></ul><p>Your manifestation ability for these powers is Intelligence, Wisdom, or Charisma (your choice).</p>"
+        },
+        {
+          "name": "Extra Attack",
+          "description": "<p>You can attack twice, instead of once, whenever you take the Attack action on your turn.</p>"
+        },
+        {
+          "name": "Infernal Conduit",
+          "description": "<p>You can strengthen your allies at the cost of yourself—or drain your enemy's life force for your own gain. You have a pool of Infernal Conduit dice, which are d10s. The number of Infernal Conduit dice in your pool increase as you gain illrigger levels, as shown in the Infernal Conduit Dice column of the Illrigger table.</p><p>As an action, you can touch another creature and spend one or more dice from your pool. The target must make a Constitution saving throw against your Interdict save DC. A creature can willingly fail this saving throw. Roll the spent dice and choose one of the following effects:</p><p><strong>Invigorate.</strong> On a failed save, the target regains hit points equal to the total you rolled, and you take necrotic damage equal to that total. On a successful save, the target regains half as many hit points, and you take necrotic damage equal to that total. Save or fail, this necrotic damage can't be reduced in any way, and if this damage reduces you to 0 hit points, you fall &amp;reference[unconscious] and are stabilized.</p><p><strong>Devour.</strong> On a failed save, the target takes necrotic damage equal to the total you rolled, and you regain hit points equal to that total. On a successful save, the target takes half as much damage, and you regain hit points equal to the damage the target took. Save or fail, or if the target chose to fail their saving throw against this effect, the necrotic damage can't be reduced in any way. When you reach 11th level in this class, the target also gains a level of exhaustion on a failed save against this effect. This level of exhaustion can be reduced as normal, and a creature can't suffer more than three levels of exhaustion combined from all illriggers' Infernal Conduit features.</p><p>You regain any spent Infernal Conduit dice when you finish a long rest.</p>"
+        },
+        {
+          "name": "Jinxpiration",
+          "description": "<p>Burn your inspiration to take one action out of turn order. </p>"
+        },
+        {
+          "name": "Belial's Interdiction",
+          "description": "<p>You learn the following additional interdict boons at the noted illrigger levels. Once you learn an interdict boon granted by this feature, you always know it, and it doesn't count against the number of interdict boons you know.</p><p>@UUID[Compendium.mcdm-class-bundle.classes.Item.o7opTXUe1pGL4vUP]{Veil of Lies} (7th Level)</p><p>@UUID[Compendium.mcdm-class-bundle.classes.Item.dmpis7LQW0UJQbmY]{Hell's Assassin} (13th Level; Passive)</p><p>@UUID[Compendium.mcdm-class-bundle.classes.Item.oarmiAKO3kTMADJv]{Dark Malediction} (18th Level; Passive)</p>"
+        },
+        {
+          "name": "Veil of Lies",
+          "description": "<p>As a bonus action, you can expend a seal to become &amp;reference[invisible] for 10 minutes or until you attack or cast a spell.</p>"
+        }
+      ]
+    },
+    {
+      "actorId": "Acs4HBZjrOg6VQGA",
+      "name": "Daisy Provolone",
+      "player": "brooke",
+      "hp": {
+        "value": 51,
+        "max": 51
+      },
+      "ac": 16,
+      "bio": "",
+      "race": "Mousefolk",
+      "background": "Wicker Weaver",
+      "classes": [
+        {
+          "name": "Druid",
+          "level": 7,
+          "subclass": "Circle of Vermin"
+        }
+      ],
+      "features": [
+        {
+          "name": "Scurry",
+          "description": "<div><p>You can move through the space of any hostile creature as if it were difficult terrain.</p></div>"
+        },
+        {
+          "name": "Squeeze",
+          "description": "<div><p>You suffer no penalty for squeezing into a space that is only large enough for a creature that is one size smaller than you.</p></div>"
+        },
+        {
+          "name": "Mousefolk Lineage",
+          "description": "<div><p>Mousefolk belong to a lineage of mouselings or ratlings. Choose one of the following lineage options:</p><p><em><strong>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.races-and-feats.Item.QgVdU4iFKhAPXaDy]{Mouseling’s Sidestep.}</strong></em> When a creature you can see makes an opportunity attack against you, you can use your reaction to impose disadvantage on the attack roll. You can’t use this trait when wearing medium or heavy armor.</p><p><em><strong>@UUID[Compendium.mage-hand-press-valdas-spire-of-secrets.races-and-feats.Item.j785Endh4VaJyfwA]{Ratling’s Gnaw.}</strong></em> You can use your action to chew through and break a small nonmagical object that isn’t being worn or carried, like a rope, a wooden rod or handle, or a length of fabric. If you chew on a wooden wall or floor for 1 minute, you can gnaw a hole large enough for a Tiny creature. You can’t chew through materials that are harder than your teeth, such as metal, stone, or crystal.</p></div>"
+        },
+        {
+          "name": "Mouseling's Sidestep",
+          "description": "<div><p>When a creature you can see makes an opportunity attack against you, you can use your reaction to impose disadvantage on the attack roll. You can’t use this trait when wearing medium or heavy armor.</p></div>"
+        },
+        {
+          "name": "Spellcasting",
+          "description": "<p>You have learned to cast spells through studying the mystical forces of nature. See @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{chapter 7} for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{Druid spell list}.</p><p><strong>Cantrips.</strong> You know two cantrips of your choice from the Druid spell list. @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDruidcraft]{Druidcraft} and @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplProduceFla]{Produce Flame} are recommended.</p><p>Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the Druid spell list.</p><p>When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the Druid spell list, as shown in the Cantrips column of the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbDruid00000000.JournalEntryPage.UCOh3zlvGxyk5jLr#class-features]{Druid Features} table.</p><p><strong>Spell Slots.</strong> The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Druid spell list. @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplAnimalFrie]{Animal Friendship}, @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplCureWounds]{Cure Wounds}, @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFaerieFire]{Faerie Fire}, and @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplThunderwav]{Thunderwave} are recommended.</p><p>The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the Druid spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.</p><p>If another Druid feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Wisdom is your spellcasting ability for your Druid spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Druidic Focus as a Spellcasting Focus for your Druid spells.</p>"
+        },
+        {
+          "name": "Druidic",
+          "description": "<p>You know Druidic, the secret language of Druids. While learning this ancient tongue, you also unlocked the magic of communicating with animals; you always have the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplSpeakwithA]{Speak with Animals} spell prepared.</p><p>You can use Druidic to leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful [[/check inv 15]] check but can't decipher it without magic.</p><section class=\"secret\" id=\"secret-5uD3Qi61JX7q2Fk8\"><p><strong>Foundry Note</strong></p><p>Druidic and Speak with Animals are automatically added during advancement.</p></section>"
+        },
+        {
+          "name": "Primal Order",
+          "description": "<p>You have dedicated yourself to one of the following sacred roles of your choice.</p><p><strong>Magician.</strong> You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).</p><p><strong>Warden.</strong> Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.</p><section id=\"secret-SgYOtpnQW9hL4WJ8\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>You will be prompted to choose during advancement.</p></section>"
+        },
+        {
+          "name": "Primal Order: Magician",
+          "description": "<p>You know one extra cantrip from the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU#cantrip]{Druid spell list}. In addition, your mystical connection to nature gives you a bonus to your Intelligence (Arcana or Nature) checks. The bonus equals your Wisdom modifier (minimum bonus of +1, currently [[lookup @abilities.wis.mod]]).</p><section class=\"secret\" id=\"secret-adiIB9wCX5zZdZ9F\"><p><strong>Foundry Note</strong></p><p>This feature includes an Active Effect which automates the increase to your known cantrips and the bonus to your Arcane and Nature checks.</p></section>"
+        },
+        {
+          "name": "Wild Shape",
+          "description": "<p>The power of nature allows you to assume the form of an animal. As a Bonus Action, you shape-shift into a Beast form that you have learned for this feature (see “Known Forms” below). You stay in that form for a number of hours equal to half your Druid level (currently [[lookup @classes.druid.levels]]) or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.</p><p><strong>Number of Uses.</strong> You can use Wild Shape twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.</p><p>You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbDruid00000000.JournalEntryPage.UCOh3zlvGxyk5jLr#class-features]{Druid Features} table.</p><p><strong>Current Number of Uses:</strong> [[lookup @scale.druid.wild-shape-uses]]</p><p><strong>Known Forms. </strong>You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum Challenge Rating of 1/4 and that lack a Fly Speed. The @UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobRat0000000]{Rat}, @UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobRidingHors]{Riding Horse}, @UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobSpider0000]{Spider}, and @UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobWolf000000]{Wolf} are recommended. Whenever you finish a Long Rest, you can replace one of your known forms with another eligible form.</p><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/vtt-512.png\"></figure><article><h3>Wild Shape Automation</h3><p>This feature includes a <strong>Transform</strong> activity. When you use it you can select the creature you'd like to Wild Shape into using the Compendium Browser. You can revert the transformation at the top of your sheet by clicking on the kebab menu (three vertical dots) and selecting <strong>Restore Transformation</strong>.</p></article></section><p>When you reach certain Druid levels, your number of known forms and the maximum Challenge Rating for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a Fly Speed.</p><p><strong>Current Known Forms Limit:</strong> [[lookup @scale.druid.known-forms]]</p><p><strong>Current CR Limit:</strong> [[lookup @scale.druid.wild-shape]]</p><p>When choosing known forms, you may look in the <em>Monster Manual</em> or elsewhere for eligible Beasts if the Dungeon Master permits you to do so.</p><table><caption>Beast Shapes</caption><thead><tr><td>Druid Level</td><td>Known Forms</td><td>Max CR</td><td>Fly Speed</td></tr></thead><tbody><tr><td>2</td><td>4</td><td>1/4</td><td>No</td></tr><tr><td>4</td><td>6</td><td>1/2</td><td>No</td></tr><tr><td>8</td><td>8</td><td>1</td><td>Yes</td></tr></tbody></table><p><strong>Rules While Shape-Shifted.</strong> While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:</p><p><strong>Temporary Hit Points. </strong>When you assume a Wild Shape form, you gain a number of Temporary Hit Points equal to your Druid level.</p><p><strong>Game Statistics.</strong> Your game statistics are replaced by the Beast's stat block, but you retain your creature type; Hit Points; Hit Point Dice; Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your Proficiency Bonus for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.</p><p><strong>No Spellcasting.</strong> You can't cast spells, but shape-shifting doesn't break your Concentration or otherwise interfere with a spell you've already cast.</p><p><strong>Objects. </strong>Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.</p>"
+        },
+        {
+          "name": "Wild Companion",
+          "description": "<p>You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of Wild Shape to cast the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFindFamili]{Find Familiar} spell without Material components.</p><p>When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.</p><section id=\"secret-4iYtjsPCmpeQTKY5\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature includes a Summon activity which can be used to summon your wild companion. You can choose whether to expend a use of wild shape or a spell slot when activating it.</p><p>The summon does not automatically disappear when you finish a Long Rest.</p></section>"
+        },
+        {
+          "name": "Lord of the Low",
+          "description": "<p>Starting when you choose this circle at 2nd level, you can expend a use of your Wild Shape feature as an action to magically summon a @UUID[Compendium.dnd5e.monsters.8ihbbjkaOFTPbI73]{swarm of rats} in your space. The swarm vanishes after a number of hours equal to half your druid level (rounded down), if it drops to 0 hit points, or if you use this ability to summon a new swarm.</p><p>The summoned swarm is friendly to you and your companions. Roll initiative for the summoned swarm, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don’t issue any commands to it, it defends itself from hostile creatures, but otherwise takes no actions.</p><p>While the swarm is in your space, you have a +2 bonus to AC and, when you take damage, you can choose for the swarm to take damage instead of you.</p><p>Starting at 6th level, you can summon a @UUID[Compendium.dnd5e.monsters.PcZ0QjIG6bHpffp9]{swarm of bats}, @UUID[Compendium.dnd5e.monsters.S0zDrv6lbnwWaz9E]{swarm of insects}, or @UUID[Compendium.dnd5e.monsters.g40zN6xMye6bSS94]{swarm of ravens}, and starting at 14th level, you can summon a @UUID[Compendium.dnd5e.monsters.XfQMBoTh892XSnCX]{swarm of poisonous snakes}.</p>"
+        },
+        {
+          "name": "Infested",
+          "description": "<p>At 2nd level, insects and rodents inhabit every nook and cranny of your clothes and gear. Whenever a creature within 5 feet of you hits you with an attack, these vermin retaliate, dealing 1d4 piercing damage to the attacker. Additionally, the creature subtracts the piercing damage dealt from the next attack roll it makes before the end of its turn.</p>"
+        },
+        {
+          "name": "Charm Twister",
+          "description": "<p class=\"p1\">You know hedge remedies and hexes passed down through Old Ways teachings, and you can impart them into small wicker charms you weave. You gain the following benefits.</p><p class=\"p2\"><em><strong>Old Blessing.</strong></em> You can cast the <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplBless00000]{Bless}</em> spell once using this benefit, targeting only creatures carrying a wicker charm you've woven, and you can’t do so again until you finish a Long Rest. You can also cast the spell using any spell slots you have. Your spellcasting ability for casting the spell in this way is Intelligence, Wisdom, or Charisma (choose the ability when you select this feat).</p><p class=\"p2\"><em><strong>Twisted Hex.</strong></em> As a Magic action, you can weave spite into a wicker charm you touch. Choose an ability. When another creature is carrying the charm, or while this charm is within an area that the creature considers home, it has Disadvantage on ability checks and attack rolls using the chosen ability. When the creature fails one of these rolls, it can make a Charisma saving throw, destroying the charm on a success (DC = 8 plus your Proficiency Bonus and the ability modifier you chose for Old Blessing). You can only have one Twisted Hex charm at a time. If you make a new one, the previous one loses its magic.</p>"
+        },
+        {
+          "name": "Wild Resurgence",
+          "description": "<p>Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).</p><p>In addition, you can expend one use of Wild Shape (no action required) to give yourself a level 1 spell slot, but you can't do so again until you finish a Long Rest.</p><section class=\"secret\" id=\"secret-b0eq9t1Lkei4tN53\"><p><strong>Foundry Note</strong></p><p>The <strong>Regain Wild Shape</strong> activity consumes a spell slot and grants you another use of Wild Shape.</p><p>The <strong>Regain Spell Slot</strong> activity will consume a use of Wild Shape and grant you a level 1 spell slot.</p></section>"
+        },
+        {
+          "name": "Tremorsense",
+          "description": "<p>By 6th level, vibrations in the ground echo through its ants and earthworms, and by extension, you can sense them. You gain tremorsense, the ability to detect and pinpoint vibrations, with a range of 10 feet. To use this sense, you and the source of the vibrations must be in contact with the same ground or substance. This sense can’t be used to detect flying or incorporeal creatures.</p>"
+        },
+        {
+          "name": "Jinxpiration",
+          "description": "<p>Burn your inspiration to take one action out of turn order. </p>"
+        },
+        {
+          "name": "Elemental Fury",
+          "description": "<p>The might of the elements flows through you. You gain one of the following options of your choice.</p><p><strong>Potent Spellcasting.</strong> Add your Wisdom modifier to the damage you deal with any Druid cantrip.</p><p><strong>Primal Strike.</strong> Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra 1d8 [[/damage 1d8 type=cold]]{cold}, [[/damage 1d8 type=fire]]{fire}, [[/damage 1d8 type=lightning]]{lightning}, or [[/damage 1d8 type=thunder]]{thunder} damage (choose when you hit).</p><section id=\"secret-kkxN7n7UL9XB7kWf\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>You will be prompted to choose during advancement.</p></section>"
+        },
+        {
+          "name": "Elemental Fury: Potent Spellcasting",
+          "description": "<p>Add your Wisdom modifier to the damage you deal with any Druid cantrip (currently, [[lookup @abilities.wis.mod]]).</p><section class=\"secret\" id=\"secret-kC2Lr5eZe550Tams\"><p><strong>Foundry Note</strong></p><p>This feature does not automate the addition of the Wisdom modifier to Druid cantrips.</p></section>"
+        }
+      ]
+    },
+    {
+      "actorId": "1bbY0a9paqwKaKR7",
+      "name": "Castiel",
+      "player": "goob",
+      "hp": {
+        "value": 60,
+        "max": 70
+      },
+      "ac": 22,
+      "bio": "<p data-start=\"363\" data-end=\"625\">Stoneborn communities believe stone remembers every crime. Some are shaped not as builders or guardians, but as <strong data-start=\"474\" data-end=\"498\">sentences given form</strong>. You were awakened, trained, and released not to protect the innocent, but to <strong data-start=\"577\" data-end=\"624\">ensure the guilty do not escape consequence</strong>.</p><p></p><p>I was carved out of white marble from a sacred temple, with judgment carved into my being i was created to deliver punishment without hatred.</p><p></p><p>But with laws and courts corrupted i now only listen to the voice of my god.</p>",
+      "race": "Stoneborn",
+      "background": "Soldier",
+      "classes": [
+        {
+          "name": "Paladin",
+          "level": 7,
+          "subclass": "Oath of Castigation"
+        }
+      ],
+      "features": [
+        {
+          "name": "Lay on Hands",
+          "description": "<p>Your blessed touch can heal wounds. You have a pool of healing power that replenishes when you finish a Long Rest. With that pool, you can restore a total number of Hit Points equal to five times your Paladin level.</p><p>As a Bonus Action, you can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.</p><p>You can also expend 5 Hit Points from the pool of healing power to remove the Poisoned condition from the creature; those points don’t also restore Hit Points to the creature.</p><section id=\"secret-CgxYFHh5PcKwwbwk\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>The <strong>Heal</strong> activity allows you to select the number of Hit Points you would like to restore and reduces your Lay on Hands pool by that amount.</p><p>The <strong>Remove Poison</strong> activity reduces your pool by 5 but does not automatically remove the Poisoned condition.</p></section>"
+        },
+        {
+          "name": "Spellcasting",
+          "description": "<p>You have learned to cast spells through prayer and meditation. See the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{rules on spellcasting}. The information below details how you use those rules with Paladin spells, which appear in the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.8yD9Jgp404hfZ9ie]{Paladin spell list}.</p><p><strong>Spell Slots.</strong> The @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbPaladin000000.JournalEntryPage.A34CXe4HdzXHoBEl#class-features]{Paladin Features table} shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells. <em>Heroism</em> and <em>Searing Smite</em> are recommended.</p><p>The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.</p><p>If another Paladin feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Charisma is your spellcasting ability for your Paladin spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.</p>"
+        },
+        {
+          "name": "Weapon Mastery",
+          "description": "<p>Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.</p><p>Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Halberds and Flails.</p>"
+        },
+        {
+          "name": "Path’s Grace",
+          "description": "<p class=\"p5\">You cast the <em>@UUID[Compendium.dnd5e.spells24.Item.phbsplBless00000]{Bless}</em> spell, requiring no Material components.</p>"
+        },
+        {
+          "name": "Zealous Charge",
+          "description": "<p class=\"p5\">You take the Dash action. The first time you make an attack roll before the end of your turn, on a hit or miss, the target takes an extra [[/damage 2d6 Radiant]] damage.</p>"
+        },
+        {
+          "name": "Silver Bulwark",
+          "description": "<p class=\"p2\">You can call upon the Silver Path to protect you. When you take Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to gain Resistance to those three damage types until the start of your next turn. Once you use this trait, you can’t do so again until you finish a Short or Long Rest.</p>"
+        },
+        {
+          "name": "Savage Attacker",
+          "description": "<p>You’ve trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon’s damage dice twice and use either roll against the target.</p>"
+        },
+        {
+          "name": "Thread of Rapture",
+          "description": "<p><span class=\"s1\">A character bound by the Thread of Rapture zealously serves a deity or other greater power as their chosen prophet. They hear the voice of their god, who wishes to gain a foothold in a godless realm by enacting a great feat of divine intervention in the hopes of leaving their mark upon the land and its people, who must be converted into the fold.</span></p><p class=\"p2\"><strong>Goal.</strong> The character must spread the word of their deity throughout the land, convert a following of devotees, break the barriers to the divine’s influence, and bring about an act of their godly intervention.</p><p class=\"p2\"><strong>Personalization.</strong> Determine the nature of the character’s deity. What is their godly domain, and what are their tenets? What do they demand of their followers, and how does the character showcase their commitment to them? What divine intervention do they seek to enact in Druskenvald and why?</p><p class=\"p2\"><strong>Call to Adventure.</strong> While the character is spreading the word of their god, they have a near-death experience but are brought back from the brink by their deity. The character hears their god speak directly to them, telling them of the holy quest they must undertake to gather the faithful in the land of death and establish a foothold for their divine will. The deity guides the character to where the adventure begins.</p><p class=\"p2\"><strong>Associated Background.</strong> @UUID[Compendium.the-crooked-moon-2014.tcm2014-player-options.Item.42ueBq6RRHbaBEr8]{Cultist}<span class=\"s2\">*</span></p>"
+        },
+        {
+          "name": "Fighting Style",
+          "description": "<p>You gain a @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.sbHImaCB8ZMEHYkb]{Fighting Style feat} of your choice. Instead of choosing one of those feats, you can choose the option below.</p><hr><p>@Embed[Compendium.dnd-players-handbook.feats.Item.phbfstBlessedWar caption=false]</p>"
+        },
+        {
+          "name": "Paladin's Smite",
+          "description": "<p>You always have the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDivineSmit]{Divine Smite} spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.</p><section id=\"secret-47mDL7wHB8aQP7SD\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>When you reach this level the Divine Smite spell is added to your spells as Always Prepared and with a free use.</p></section>"
+        },
+        {
+          "name": "Defense",
+          "description": "<p><em>(Prerequisite: Fighting Style Feature)</em></p><p>While you’re wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armor Class.</p><section id=\"secret-y8skH0HHunT4I5NR\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature includes an Active Effect which provides the Armor Class bonus. Disable it when you are not wearing armor.</p></section>"
+        },
+        {
+          "name": "Channel Divinity",
+          "description": "<p>You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class’s Channel Divinity, you choose which effect from this class to create.</p><p>You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain an additional use when you reach Paladin level 11.</p><p>If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class’s Spellcasting feature.</p><p><strong>Divine Sense.</strong> As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHallow0000]{Hallow} spell.</p><section class=\"secret\" id=\"secret-lIHCt32JLE7PAUbn\"><p><strong>Foundry Note</strong></p><p>The uses of your Channel Divinity increase automatically as you level up. It automatically regains the correct uses after Short and Long Rests.</p><p>The <strong>Divine Sense</strong> activity includes an Active Effect but it does not automatically reveal the given creatures.</p></section>"
+        },
+        {
+          "name": "Castigate",
+          "description": "<p>As a Magic action, you can expend one use of your Channel Divinity to clap those you would bring to justice in fiery shackles. Choose a number of creatures up to your Charisma modifier (minimum of 1 creature) you can see within 30 feet of yourself. Each creature must succeed on a Strength saving throw or be wrapped in fiery shackles and have its Speed reduced to 0. As a Bonus Action, you can cause the shackles to flare. Each creature bound by the shackles takes [[/damage 2d6 Fire]] damage. A shackled creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success. After 1 minute, it succeeds automatically.</p>"
+        },
+        {
+          "name": "Incite",
+          "description": "<p class=\"p1\">As a Magic action, you can expend one use of your Channel Divinity to better seek out wickedness and corruption. For the next 10 minutes, you have Advantage on Intelligence (Investigation) and Wisdom (Insight) checks.</p><p class=\"p2\">During that time, you can take a Bonus Action to choose a creature you can see within 10 feet of you. The target must succeed on a Charisma saving throw or have the &amp;reference[Frightened apply=false] condition for 1 minute. While the target is Frightened in this way, it can’t speak a deliberate lie. The condition ends early if the target takes damage or if you use this Bonus Action again.</p>"
+        },
+        {
+          "name": "Oath of Castigation Spells",
+          "description": "<p>You gain oath spells at the paladin levels listed in the Oath of Castigation Spells table. See the Sacred Oath class feature for how oath spells work.</p><p class=\"p2\"><span class=\"s1\"><em><strong>Oath of Castigation Spells</strong></em></span></p><table border=\"0\" class=\"foundry-header-red\"><thead><tr><th>Paladin Level</th><th>Spells</th></tr></thead><tbody><tr><td>3rd</td><td>Divine Favor, Inflict Wounds</td></tr><tr><td>5th</td><td>Chain of Conviction*, Hold Person</td></tr><tr><td>9th</td><td>Counterspell, Speak with Dead</td></tr><tr><td>13th</td><td>Consuming Pyre*, Locate Creature</td></tr><tr><td>17th</td><td>Flame Strike, Hold Monster</td></tr></tbody></table>"
+        },
+        {
+          "name": "Tenets of Castigation",
+          "description": "<p>The tenets of the Oath of Castigation drive a paladin to act with conviction and without mercy in the destruction of wickedness.</p><ul><li><p class=\"p2\"><em><strong>Certainty.</strong></em> Burn away all doubt in pursuit of duty.</p></li><li><p class=\"p2\"><em><strong>Burn Wickedness. </strong></em>The wicked and corrupt must burn to spare the innocent.</p></li><li><p class=\"p2\"><em><strong>Purge Sin.</strong></em> Sin is forgiven through suffering equal to the pain it inflicted.</p></li></ul>"
+        },
+        {
+          "name": "Sentinel",
+          "description": "<p>You gain the following benefits.</p><p><strong>Ability Score Increase.</strong> Increase your Strength or Dexterity score by 1, to a maximum of 20.</p><p><strong>Guardian.</strong> Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.</p><p><strong>Halt.</strong> When you hit a creature with an Opportunity Attack, the creature’s Speed becomes 0 for the rest of the current turn.</p><section id=\"secret-KBMBiIjYcMO6SlX6\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature includes an Active Effect which can be used for reducing the creature's Speed to 0. </p></section>"
+        },
+        {
+          "name": "Extra Attack",
+          "description": "<p>You can attack twice instead of once whenever you take the Attack action on your turn.</p>"
+        },
+        {
+          "name": "Faithful Steed",
+          "description": "<p>You can call on the aid of an otherworldly steed. You always have the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFindSteed0]{Find Steed} spell prepared.</p><p>You can also cast the spell once without expending a spell slot, and you regain the ability to do so when you finish a Long Rest.</p><section class=\"secret\" id=\"secret-XC2S9ToogFr41act\"><p><strong>Foundry Note</strong></p><p>The Find Steed spell is added to your spell list as always prepared and with a free use per Long Rest when you reach this level.</p></section>"
+        },
+        {
+          "name": "Aura of Protection",
+          "description": "<p>You radiate a protective, unseeable aura in a 10-foot Emanation that originates from you. The aura is inactive while you have the &amp;Reference[Incapacitated apply=false] condition.</p><p>You and your allies in the aura gain a bonus to saving throws equal to your Charisma modifier (minimum bonus of +1, currently [[lookup @abilities.cha.mod]]).</p><p>If another Paladin is present, a creature can benefit from only one Aura of Protection at a time; the creature chooses which aura while in them.</p><section class=\"secret\" id=\"secret-PEdASVYFq26DP4Fq\"><p><strong>Foundry Note</strong></p><p>This feature includes an Active Effect which automatically improves your Saving Throws but it should not be used for other impacted characters because it will add their Charisma modifier and not the Paladin's. They should add your modifier manually.</p></section>"
+        },
+        {
+          "name": "Jinxpiration",
+          "description": "<p>Burn your inspiration to take one action out of turn order. </p>"
+        },
+        {
+          "name": "Kindling Aura",
+          "description": "<p><span class=\"s1\">You and your allies within your Aura of Protection ignore creatures’ resistance to fire and radiant damage, and when an affected creature hits with a weapon attack, it can deal fire damage instead of the weapon’s normal damage type.</span></p><p class=\"p2\"><span class=\"s1\">In addition, you and affected creatures in the aura can add your Charisma modifier (minimum of +1) to Intelligence (Investigation) and Wisdom (Insight) checks.</span></p>"
+        }
+      ]
+    },
+    {
+      "actorId": "vJ05vJn1bnN9Aq9m",
+      "name": "Morris Granville",
+      "player": "foundrymaster",
+      "hp": {
+        "value": 36,
+        "max": 50
+      },
+      "ac": 14,
+      "bio": "<p>A once renowned detective in the realms of the living, Morris Granville was called to investigate for many of the greatest Clerics, Paladins, Mayors, and Lords. In his many escapades he dodged death a number of times, including having been resurrected at least twice. Though there may have been a third, he doesn't remember. In recent times though his name has fallen by wayside in the land of the living, and thus he has been in Druskenvald for far longer than he prefers. Looking for something to do whilst trying to find a way back to the realm of the living, Morris finds a poster promising a reward for the capture or killing of Pierre Fromage.</p><p></p><img src=\"music/25071021-9c27-4cdf-9e4a-89690d8c6b2d.png\">",
+      "race": "Plagueborn",
+      "background": "Ghostlight Passenger",
+      "classes": [
+        {
+          "name": "Rogue",
+          "level": 3,
+          "subclass": "Phantom"
+        },
+        {
+          "name": "Ranger",
+          "level": 4,
+          "subclass": "Hunter"
+        }
+      ],
+      "features": [
+        {
+          "name": "Plague Bearer",
+          "description": "<p class=\"p2\">When you hit a creature with an attack roll, you can spread your magical contagion to the target. The target must succeed on a Constitution saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus) or become afflicted with your plague for 1 minute.</p><p class=\"p2\">While afflicted, the target has Disadvantage on attack rolls and ability checks and takes [[/damage 1d4 Poison]] damage at the start of each of its turns. The target repeats the save at the end of each of its turns, ending the plague on itself on a success.</p><p class=\"p2\">Once you use this trait, you can’t do so again until you finish a Long Rest</p>"
+        },
+        {
+          "name": "Ghostlight Medium",
+          "description": "<p class=\"p1\">You formed a mystical connection to the <em>Ghostlight Express</em> that affords you insight into the nature of spirits, granting the following benefits.</p><p class=\"p2\"><em><strong>Ghostly Touch.</strong></em> When you damage a creature with the Incorporeal Movement trait, you can ignore the creature’s damage Resistances, if any.</p><p class=\"p2\"><em><strong>Spirit Sense.</strong></em> As a Bonus Action, you can sense any Undead within 60 feet of you, or any creatures in the Ethereal Plane that overlaps that area. You learn the distance and direction to any creatures you detect (or an Ethereal creature’s equivalent position on your plane). Once you detect a creature with this benefit, you can’t use it again until you finish a Short or Long Rest.</p>"
+        },
+        {
+          "name": "Expertise",
+          "description": "<p>You gain Expertise in two of your skill proficiencies of your choice. Sleight of Hand and Stealth are recommended if you have proficiency in them.</p><p>At Rogue level 6, you gain Expertise in two more of your skill proficiencies of your choice.</p><section id=\"secret-d8cc1fheUe7P6H44\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>You will be prompted for your expertise choices as you level up.</p></section>"
+        },
+        {
+          "name": "Sneak Attack",
+          "description": "<p>You know how to strike subtly and exploit a foe’s distraction. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage’s type is the same as the weapon’s type.</p><p>You don’t need Advantage on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn’t have the Incapacitated condition, and you don’t have Disadvantage on the attack roll.</p><p>The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.</p><p><strong>Current Sneak Attack Damage:</strong> [[lookup @scale.rogue.sneak-attack]]</p><section class=\"secret\" id=\"secret-ulLpai4CguAExpmN\"><p><strong>Foundry Note</strong></p><p>Your sneak attack damage will automatically scale as you level up. You can select the damage type in the damage roll's dialog box.</p></section>"
+        },
+        {
+          "name": "Thieves' Cant",
+          "description": "<p>You picked up various languages in the communities where you plied your roguish talents. You know Thieves’ Cant and one other language of your choice, which you choose from the language tables in @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbCreatingAChar.JournalEntryPage.t1WP9VEevo4TOTXw#choose-languages]{chapter 2}.</p><section id=\"secret-xG1Y223QZRsrOTCZ\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>Thieves' Cant will be added to your sheet automatically and you will be prompted to choose the additional language.</p></section>"
+        },
+        {
+          "name": "Weapon Mastery",
+          "description": "<p>Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Daggers and Shortbows.</p><p>Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Shortswords.</p>"
+        },
+        {
+          "name": "Cunning Action",
+          "description": "<p>Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: &amp;Reference[Dash], &amp;Reference[Disengage], or &amp;Reference[Hide].</p>"
+        },
+        {
+          "name": "Steady Aim",
+          "description": "<p>As a Bonus Action, you give yourself Advantage on your next attack roll on the current turn. You can use this feature only if you haven’t moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.</p>"
+        },
+        {
+          "name": "Whispers of the Dead",
+          "description": "<p>Echoes of those who have died cling to you. Whenever you finish a short or long rest, you can choose one skill or tool proficiency that you lack and gain it, as a ghostly presence shares its knowledge with you. You lose this proficiency when you use this feature to choose a different proficiency that you lack.</p><section class=\"secret\" id=\"secret-JB2JOqIbtT3zbspD\"><p><strong>Foundry Note</strong></p><p>Mark the skill as proficient in your character sheet. Then apply this feature's Active Effect for tracking its usage.</p></section>"
+        },
+        {
+          "name": "Wails from the Grave",
+          "description": "<p>As you nudge someone closer to the grave, you can channel the power of death to harm someone else as well. Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes necrotic damage equal to the roll’s total, as wails of the dead sound around them for a moment.</p><p>You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.</p><section id=\"secret-5HuptafHama2Jluh\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature automatically determines the correct damage roll.</p></section>"
+        },
+        {
+          "name": "Spellcasting",
+          "description": "<p>You have learned to channel the magical essence of nature to cast spells. See the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.mh3akteBDiLegqFK]{rules on spellcasting}. The information below details how you use those rules with Ranger spells, which appear in the @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.5HnIk6HsrSxkvkz5]{Ranger spell list}.</p><p><strong>Spell Slots.</strong> The @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbRanger0000000.JournalEntryPage.fgzoeAJE4EEUSOYQ#class-features]{Ranger Features table} shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.</p><p><strong>Prepared Spells of Level 1+.</strong> You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplCureWounds]{Cure Wounds} and @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplEnsnaringS]{Ensnaring Strike} are recommended.</p><p>The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.</p><p>If another Ranger feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.</p><p><strong>Changing Your Prepared Spells.</strong> Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.</p><p><strong>Spellcasting Ability. </strong>Wisdom is your spellcasting ability for your Ranger spells.</p><p><strong>Spellcasting Focus. </strong>You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.</p>"
+        },
+        {
+          "name": "Favored Enemy",
+          "description": "<p>You always have the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHuntersMar]{Hunter’s Mark} spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.</p><p>The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.</p><section id=\"secret-cyuZuzwxsQg01vVN\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>The spell is granted to you at this level and will increase the number of free uses available automatically as you level up.</p></section>"
+        },
+        {
+          "name": "Weapon Mastery",
+          "description": "<p>Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.</p><p>Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.</p>"
+        },
+        {
+          "name": "Thread of Deliverance",
+          "description": "<p>A character bound by the Thread of Deliverance seeks an inherited family heirloom of great importance and power that was broken apart and lost during a previous trip they took aboard the <em>Ghostlight Express</em>. They follow a soul-powered compass that they hope will lead to the artifact’s pieces and the truth behind its fateful purpose once made whole.</p><p class=\"p2\"><strong>Goal.</strong> The character must find all three of the pieces of the fractured artifact and restore it to discover its origin, true power, and how to harness it for themselves.</p><p class=\"p2\"><strong>Personalization.</strong> Determine what type of item the family heirloom is and why it’s special to the character. Who was the family member they inherited it from, and what was their relationship like? Which Druskenvald province was it retrieved from and how did they first find it?</p><p class=\"p2\"><strong>Call to Adventure.</strong> After the character retrieved the inherited heirloom from Druskenvald, their return trip aboard the <em>Ghostlight Express</em> was interrupted by a hooded, lantern-bearing figure that stole the artifact, split it into three pieces, and ejected the character from the train into the Shroud. The character miraculously survived and emerged somewhere in the mortal realms with a strange, broken compass in their possession. Time has since passed, but one night, the compass glows with ghastly energy, its needle pointing toward wherever the adventure begins.</p><p class=\"p2\"><strong>Associated Background.</strong> @UUID[Compendium.the-crooked-moon-2014.tcm2014-player-options.Item.AndVYzgMjqf11dHW]{Ghostlight Passenger}<span class=\"s1\">*</span></p>"
+        },
+        {
+          "name": "Deft Explorer",
+          "description": "<p>Thanks to your travels, you gain the following benefits.</p><p><strong>Expertise.</strong> Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.</p><p><strong>Languages.</strong> You know two languages of your choice from the language tables in chapter 2.</p><section class=\"secret\" id=\"secret-MKYXod5Sdpyj2x7V\"><p><strong>Foundry Note</strong></p><p>You will be prompted for choices when you add the Ranger class to your character sheet.</p></section>"
+        },
+        {
+          "name": "Fighting Style",
+          "description": "<p>You gain a @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.sbHImaCB8ZMEHYkb]{Fighting Style feat} of your choice. Instead of choosing one of those feats, you can choose the option below.</p><hr><p>@Embed[Compendium.dnd-players-handbook.feats.Item.phbfstDruidicWar caption=false]</p>"
+        },
+        {
+          "name": "Archery",
+          "description": "<p><em>(Prerequisite: Fighting Style Feature)</em></p><p>You gain a +2 bonus to attack rolls you make with Ranged weapons.</p><section id=\"secret-n13Z6zR2u0CiIA7D\" class=\"secret\"><p><strong>Foundry Note</strong></p><p>This feature includes an Active Effect which adds the bonus to Ranged weapon attack rolls.</p></section>"
+        },
+        {
+          "name": "Hunter's Lore",
+          "description": "<p>You can call on the forces of nature to reveal certain strengths and weaknesses of your prey. While a creature is marked by your <em>Hunter’s Mark</em>, you know whether that creature has any Immunities, Resistances, or Vulnerabilities, and if the creature has any, you know what they are.</p>"
+        },
+        {
+          "name": "Hunter's Prey",
+          "description": "<p>You gain one of the following feature options of your choice. Whenever you finish a Short or Long Rest, you can replace the chosen option with the other one.</p><p><strong>Colossus Slayer.</strong> Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra 1d8 damage to the target if it’s missing any of its Hit Points. You can deal this extra damage only once per turn.</p><p><strong>Horde Breaker.</strong> Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon’s range, and that you haven’t attacked this turn.</p><section class=\"secret\" id=\"secret-I2q5Nm7g6mkLjH5Y\"><p><strong>Foundry Note</strong></p><p>This feature includes a <strong>Colossus Slayer</strong> activity for the additional damage. You can select the correct damage type in the roll dialog.</p><p>For the <strong>Horde Breaker</strong> option simply make another attack.</p></section>"
+        },
+        {
+          "name": "Jinxpiration",
+          "description": "<p>Burn your inspiration to take one action out of turn order. </p>"
+        }
+      ]
     }
   ]
 }
